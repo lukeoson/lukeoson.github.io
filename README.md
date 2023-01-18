@@ -18,10 +18,10 @@ Current Projects
 >3.   Owner and keeper of [Netbox](https://netbox.readthedocs.io/en/stable/). Manage migration to Nautobot. 
 >4.   Owner and keeper of SplunkCloud. Administration and SOX compliance. 
 >5.   Eclectic research projects as [WeWork](https://www.wework.com/) adapts to prevailing Market  conditions.
->6.   Network Remediations. Bugs, Upgrades, Hot Fixes to keep the lights on.
->7.    Inculcate a DevOps mindset and iterate toward a mature CICD.
+>6.   Network remediations, bugs, upgrades, hot fixes to keep the lights on.
+>7.   Inculcate a DevOps mindset and iterate toward a mature CICD.
 >8.   Craft transition to outsourced Network Operations Center and Franchise business.
->9.   SSO Okta Administration and dynamic RBAC provisioning.
+>9.   SSO Okta Administration and RBAC provisioning.
 
 ### Qualifications
 
@@ -59,10 +59,13 @@ Current Projects
 >- Mountaineering. Northern India & Nepal. Ambition to climb [Abu Dablam](https://www.google.com/search?q=abu+dablam).
 >
 
-> [!success] Daily Mantra
+### Daily Mantra
 > - Small things compound! Keep Going. Be Positive.
 
 ***
-#resume 
 
-- *end of resume.*
+{% note %}
+
+**Note:** Owners and administrators can add outside collaborators to a repository.
+
+{% endnote %}
