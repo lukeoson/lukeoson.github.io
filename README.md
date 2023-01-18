@@ -1,6 +1,6 @@
 # lukoson.github.io
-Luke Richardson
-[lukeoson@gmail.com](mailto:lukeoson@gmail.com), +447376209455,
+Luke Richardson,
+[lukeoson@gmail.com](mailto:luke@lukeoson.io.com), +447376209455,
 Central London, WeWork, Network Architect, 
 [LinkedIn](https://www.linkedin.com/in/luke-richardson/), [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)
  
