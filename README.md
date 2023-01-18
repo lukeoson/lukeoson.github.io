@@ -8,9 +8,7 @@ WeWork | Network Architect | [LinkedIn](https://www.linkedin.com/in/luke-richard
  
 >With a decade of Network Engineering experience I’m prepared for roles orchestrating complex infrastructure at scale. I’d like to work for a mission focused company with a compelling vision and paradigm changing product. The culture and ability to be impactful are important to me.
 
-### Current Role & Responsibilities
-
-Current Projects
+### Daily Bread
 - Product Owner & SME of [IPFabric](https://ipfabric.io/). An Automated Network Assurance Platform.  
 - Product Owner & SME of [Nautobot](https://www.networktocode.com/nautobot/). A Source of Truth and Orchestration Platform.
 - Product Owner & SME of [Netbox](https://netbox.readthedocs.io/en/stable/). A Source of Truth. Manage migration to Nautobot. 
@@ -21,7 +19,7 @@ Current Projects
 - Stakeholder of transition to outsourced Network Operations Center and Franchise Business.
 - SSO Okta Administration and dynamic RBAC provisioning.
 
-### Qualifications
+### Certifications
 
 | **Current - [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)** | **Always Improving** |
 |:----------------------------:|:-----------------------------:|
@@ -56,6 +54,7 @@ Hobbies
 >- Rock Climbing. [North Wales Trad](https://www.ukclimbing.com/logbook/set.php?id=165) is my climbing homeland. 
 >- Mountaineering. Northern India & Nepal. Ambition to climb [Abu Dablam](https://www.google.com/search?q=abu+dablam).
 
+Daily Mantra
 > - "Small things compound! Keep Going. Be Positive."
 
 ***
