@@ -1,6 +1,4 @@
 # lukoson.github.io
-Small things compound. Keep going. Be positive. 
-
 Luke Richardson
 [lukeoson@gmail.com](mailto:lukeoson@gmail.com) +447376209455
 Central London, WeWork, Network Architect 
