@@ -11,16 +11,15 @@ WeWork | Network Architect | [LinkedIn](https://www.linkedin.com/in/luke-richard
 ### Current Role & Responsibilities
 
 Current Projects
-**The Projects that occupy my day to day in my current role at WeWork.
->1.   Owner and keeper of [IPFabric](https://ipfabric.io/), an Automated Network Assurance Platform.  
->2.   Bring [Nautobot](https://www.networktocode.com/nautobot/), a Source of Truth and Orchestration Platform, into Production.
->3.   Owner and keeper of [Netbox](https://netbox.readthedocs.io/en/stable/). Manage migration to Nautobot. 
->4.   Owner and keeper of SplunkCloud. Administration and SOX compliance. 
->5.   Eclectic research projects as [WeWork](https://www.wework.com/) adapts to prevailing Market  conditions.
->6.   Network remediations, bugs, upgrades, hot fixes to keep the lights on.
->7.   Inculcate a DevOps mindset and iterate toward a mature CICD.
->8.   Craft transition to outsourced Network Operations Center and Franchise business.
->9.   SSO Okta Administration and RBAC provisioning.
+- Product Owner & SME of [IPFabric](https://ipfabric.io/). An Automated Network Assurance Platform.  
+- Product Owner & SME of [Nautobot](https://www.networktocode.com/nautobot/). A Source of Truth and Orchestration Platform.
+- Product Owner & SME of [Netbox](https://netbox.readthedocs.io/en/stable/). A Source of Truth. Manage migration to Nautobot. 
+- Administrative Owner of [SplunkCloud](https://splunkcloud.com). Dashboard Studio Visualisations SME. Admin & SOX compliance. 
+- Eclectic research of emerging technologies as [WeWork](https://www.wework.com/) iterates. NaaS. Automation Systems.
+- Network remediations. bugs, upgrades, hot fix configuration. Mostly Junos & Cisco. Some FortiGate & Palo.
+- Mandate to inculcate a DevOps mindset and iterate towards mature CICD.
+- Stakeholder of transition to outsourced Network Operations Center and Franchise Business.
+- SSO Okta Administration and dynamic RBAC provisioning.
 
 ### Qualifications
 
