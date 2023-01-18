@@ -4,8 +4,7 @@ Small things compound. Keep going. Be positive.
 Luke Richardson
 [lukeoson@gmail.com](mailto:lukeoson@gmail.com) | +447376209455
 UK | England | London | Soho
-WeWork | Technology | Network Architect | [LinkedIn](https://www.linkedin.com/in/luke-richardson/) [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)
- 
+WeWork | Network Architect | [LinkedIn](https://www.linkedin.com/in/luke-richardson/) [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)
  
 >With a decade of Network Engineering experience I’m prepared for roles orchestrating complex infrastructure at scale. I’d like to work for a mission focused company with a compelling vision and paradigm changing product. The culture and ability to be impactful are important to me.
 
@@ -54,18 +53,11 @@ Current Projects
 
 ### Misc
 
->[!tip] Hobbies
->- Rock Climbing. [North Wales Trad](https://www.ukclimbing.com/logbook/set.php?id=165)is my climbing homeland. 
+Hobbies
+>- Rock Climbing. [North Wales Trad](https://www.ukclimbing.com/logbook/set.php?id=165) is my climbing homeland. 
 >- Mountaineering. Northern India & Nepal. Ambition to climb [Abu Dablam](https://www.google.com/search?q=abu+dablam).
->
 
-### Daily Mantra
-> - Small things compound! Keep Going. Be Positive.
+> - "Small things compound! Keep Going. Be Positive."
 
 ***
 
-{% note %}
-
-**Note:** Owners and administrators can add outside collaborators to a repository.
-
-{% endnote %}
