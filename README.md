@@ -6,15 +6,15 @@ Central London, WeWork, Network Architect,
 >A decade of network engineering experience in preparation for roles orchestrating complex infrastructure at scale. I’d like to work for a company with a compelling vision and paradigm changing product. 
 
 ### Daily Bread
-- Product Owner & SME of [IPFabric](https://ipfabric.io/). An Automated Network Assurance Platform.  
-- Product Owner & SME of [Nautobot](https://www.networktocode.com/nautobot/). A Source of Truth and Orchestration Platform.
-- Product Owner & SME of [Netbox](https://netbox.readthedocs.io/en/stable/). A Source of Truth. Manage migration to Nautobot. 
+- Product owner & SME of [IPFabric](https://ipfabric.io/). An Automated Network Assurance Platform.  
+- Product owner & SME of [Nautobot](https://www.networktocode.com/nautobot/). A Source of Truth and Orchestration Platform.
+- Product owner of [Netbox](https://netbox.readthedocs.io/en/stable/). A Source of Truth. Manage migration to Nautobot. 
 - Administrative Owner of [SplunkCloud](https://splunkcloud.com). Dashboard Studio Visualisations SME. Admin & SOX compliance. 
 - Eclectic research of emerging technologies as [WeWork](https://www.wework.com/) iterates. NaaS. Automation Systems.
 - Network remediations. bugs, upgrades, hot fix configuration. Mostly Junos & Cisco. Some FortiGate & Palo.
 - Mandate to inculcate a DevOps mindset and iterate towards mature CICD.
 - Stakeholder of transition to outsourced Network Operations Center and Franchise Business.
-- SSO Okta Administration and dynamic RBAC provisioning.
+- SSO [Okta](https://okta.com) administration and RBAC provisioning.
 
 ### Certifications
 
