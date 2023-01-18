@@ -1,30 +1,18 @@
 # lukoson.github.io
 Small things compound. Keep going. Be positive. 
 
-
-
-
-
-
-> [!info]+ Luke Richardson
-> [lukeoson@gmail.com](mailto:lukeoson@gmail.com) | +447376209455
-> UK | England | London | Soho
-> WeWork | Technology | Network Architect | [LinkedIn](https://www.linkedin.com/in/luke-richardson/) [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)
- 
- 
- {% note %}
-
-**Note:** Owners and administrators can add outside collaborators to a repository.
-
-{% endnote %}
+Luke Richardson
+[lukeoson@gmail.com](mailto:lukeoson@gmail.com) | +447376209455
+UK | England | London | Soho
+WeWork | Technology | Network Architect | [LinkedIn](https://www.linkedin.com/in/luke-richardson/) [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)
  
  
 >With a decade of Network Engineering experience I’m prepared for roles orchestrating complex infrastructure at scale. I’d like to work for a mission focused company with a compelling vision and paradigm changing product. The culture and ability to be impactful are important to me.
 
 ### Current Role & Responsibilities
 
->[!summary]+ Current Projects
->> **The Projects that occupy my day to day in my current role at WeWork.**
+Current Projects
+**The Projects that occupy my day to day in my current role at WeWork.
 >1.   Owner and keeper of [IPFabric](https://ipfabric.io/), an Automated Network Assurance Platform.  
 >2.   Bring [Nautobot](https://www.networktocode.com/nautobot/), a Source of Truth and Orchestration Platform, into Production.
 >3.   Owner and keeper of [Netbox](https://netbox.readthedocs.io/en/stable/). Manage migration to Nautobot. 
