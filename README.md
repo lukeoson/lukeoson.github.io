@@ -1,4 +1,4 @@
-# lukoson.github.io
+# resume.lukeoson.io
 Luke Richardson,
 [lukeoson@gmail.com](mailto:luke@lukeoson.io.com), +447376209455,
 Central London, WeWork, Network Architect, 
