@@ -48,11 +48,11 @@ Central London, WeWork, Network Architect,
 ### Misc
 
 Hobbies
->- Rock Climbing. [North Wales Trad](https://www.ukclimbing.com/logbook/set.php?id=165) is my climbing homeland. 
->- Mountaineering. Northern India & Nepal. Ambition to climb [Abu Dablam](https://www.google.com/search?q=abu+dablam).
+- Rock Climbing. [North Wales Trad](https://www.ukclimbing.com/logbook/set.php?id=165) is my climbing homeland. 
+- Mountaineering. Northern India & Nepal. Ambition to climb [Abu Dablam](https://www.google.com/search?q=abu+dablam).
 
 Daily Mantra
-> - "Small things compound! Keep Going. Be Positive."
+> Small things compound! Keep Going. Be Positive.
 
 ***
 
