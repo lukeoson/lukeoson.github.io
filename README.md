@@ -1,6 +1,6 @@
 Luke Richardson, [luke@lukeoson.io](mailto:luke@lukeoson.io), +447376209455, Central London, WeWork, Network Architect, [LinkedIn](https://www.linkedin.com/in/luke-richardson/), [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027). 
 
->A decade network engineering in preparation for opportunities managing & orchestrating infrastructure at scale. Open to a variety of roles spanning purified technical, sales ecosystem, and team management. London based. Or relocation to USA & India considered. 
+>A decade of network engineering in preparation for opportunities managing & orchestrating infrastructure at scale. Open to a variety of roles spanning purified technical, sales ecosystem, and team management. London based. Or relocation to USA & India considered. 
 
 ### Daily Bread
 
@@ -16,24 +16,24 @@ Luke Richardson, [luke@lukeoson.io](mailto:luke@lukeoson.io), +447376209455, Cen
 
 ### Certifications
 
-| **Current - [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)**| **Always Improving** |
-|:----------------------------:|:-----------------------------:|
-| Cisco CCNA R&S. | Juniper Junos Automation.| 
-| Junos Associate x5: R&S, MistAI, Sec, DevOps, Cloud | Python and Ansible for Network Automation |
-| Junos Specialist x3: R&S, MistAI, DevOps | Hashicorp Terraform & Vault |
-| AWS Cloud Practitioner | AWS Solutions Architecture |
-| Zabbix Specialist | AWS System Administration |
+| **Current - [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)**| **Always Improving** 
+|:----------------------------:|:-----------------------------:
+| Cisco CCNA R&S. | Juniper Junos Automation 
+| Junos Associate x5: R&S, MistAI, Sec, DevOps, Cloud | Python and Ansible for Network Automation
+| Junos Specialist x3: R&S, MistAI, DevOps | Hashicorp Terraform & Vault
+| AWS Cloud Practitioner | AWS Solutions Architecture
+| Zabbix Specialist | AWS System Administration
 | Splunk Infrastructure | Advanced Splunk Visualisations
-| GitLab Associate | Jira Agile Workflows |
-| Okta Professional | Confluence Knowledge Base |
+| GitLab Associate | Jira Agile Workflows
+| Okta Professional | Confluence Knowledge Base
 
 ### Education 
 
 | Institute | Attendance | Accomplishment |
 | :---: | :---: | :---: |
-| [Bishop Stopford School](https://www.bishopstopford.com/) | 1997 - 2005 | x4 A-levels Grade A |
-| [Queen Mary University of London](https://www.qmul.ac.uk/) | 2005 - 2008 | Politics & Government BA - 2:1 |
-| [YouTube](https://www.youtube.com/channel/UCRIOI_3REG9zIDM0Fp9Xiyg) | 2008 - 2023 | at least 10,000 hours |
+| [Bishop Stopford School](https://www.bishopstopford.com/) | 1997 - 2005 | x4 A-levels Grade A
+| [Queen Mary University of London](https://www.qmul.ac.uk/) | 2005 - 2008 | Politics & Government BA - 2:1
+| [YouTube](https://www.youtube.com/channel/UCRIOI_3REG9zIDM0Fp9Xiyg) | 2008 - 2023 | at least 10,000 hours
 
 ### Tech Jobs
 
