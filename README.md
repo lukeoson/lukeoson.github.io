@@ -3,7 +3,7 @@
 Luke Richardson\
 [luke@lukeoson.io](mailto:luke@lukeoson.io) +447376209455\
 Central London - WeWork - Network Architect\
-[LinkedIn](https://www.linkedin.com/in/luke-richardson/) [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)\
+[LinkedIn](https://www.linkedin.com/in/luke-richardson/) [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)
 
 >A decade of network engineering in preparation for opportunities managing & orchestrating infrastructure at scale. Open to a variety of roles spanning purified technical, sales ecosystem, and team management. London based. Or relocation to USA & India considered. 
 
