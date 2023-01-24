@@ -55,4 +55,4 @@ Daily Mantra
 
 ***
 
-*🎉 Thank you for taking the time. Updates available at [resume.lukeoson.io](https://resume.lukeson.io)or pursue [Lukes's Portfolio](https://portfolio.lukeoson.io) for more verbose detail.*   
+*🎉 Thank you for taking the time. Updates available at [resume.lukeoson.io](https://resume.lukeson.io) or pursue [Lukes's Portfolio](https://portfolio.lukeoson.io) for more verbose detail.*   
