@@ -5,7 +5,7 @@ Luke Richardson\
 Central London - WeWork - Network Architect\
 [LinkedIn](https://www.linkedin.com/in/luke-richardson/) [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)
 
->Luke has a decade of network engineering experience in preparation for opportunities managing & orchestrating infrastructure at scale. \ 
+>Luke has a decade of network engineering experience in preparation for opportunities managing & orchestrating infrastructure at scale.
 >He is considering roles that span purified technical, sales ecosystem, and team management.   
 
 ### Daily Bread
