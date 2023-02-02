@@ -57,7 +57,9 @@ Hobbies
 
 ***
 
-*🎉 Thank you for taking the time. Updates available at [resume.lukeoson.io](https://resume.lukeson.io) or puruse [Lukes's Portfolio](https://portfolio.lukeoson.io) for more verbose detail.*   
+*🎉 Thank you for taking the time. Updates available at [resume.lukeoson.io](https://resume.lukeson.io) or puruse [Lukes's Portfolio](https://portfolio.lukeoson.io) for more verbose detail.*  
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="luke-richardson" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/luke-richardson?trk=profile-badge">Luke Richardson</a></div>
               
