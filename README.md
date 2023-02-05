@@ -1,5 +1,7 @@
 # Luke Richardson's Resume
 
+![Twitter Follow](https://img.shields.io/twitter/follow/lukeoson?style=social)
+
 Luke Richardson\
 [luke@lukeoson.io](mailto:luke@lukeoson.io) +447376209455\
 Central London - WeWork - Network Architect\
