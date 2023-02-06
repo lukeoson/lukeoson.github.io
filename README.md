@@ -61,7 +61,6 @@ Hobbies
 
 *🎉 Thank you for taking the time. Updates available at [resume.lukeoson.io](https://resume.lukeson.io) or puruse [Lukes's Portfolio](https://portfolio.lukeoson.io) for more verbose detail.*  
 
-[Luke Richardson](https://uk.linkedin.com/in/luke-richardson?trk=profile-badge)
               
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
