@@ -49,3 +49,19 @@ Central London - WeWork - Network Architect
 | [Dimension Data - NTT](https://www.dimensiondata.com/en-gb/) | 2012 - 2017 | PM to Network Engineer 
 | [Redstone - Now Onnec](https://www.onnecgroup.com/) | 2017 - 2018 | Network Engineer & TPM
 | [WeWork](https://www.wework.com/) | 2019 - 2023 | Network Architect - Global 
+
+***
+
+Hobbies
+- Rock Climbing. [North Wales Trad](https://www.ukclimbing.com/logbook/set.php?id=165) is my climbing homeland. 
+- Mountaineering. Northern India & Nepal. Ambition to climb [Abu Dablam](https://www.google.com/search?q=abu+dablam).
+
+***
+
+*🎉 Thank you for taking the time. 
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/lukeos', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
+<!-- Calendly badge widget end -->
