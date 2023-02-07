@@ -2,13 +2,12 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/lukeoson?style=social)
 
-Luke Richardson\
-[luke@lukeoson.io](mailto:luke@lukeoson.io) +447376209455\
-Central London - WeWork - Network Architect\
-[LinkedIn](https://www.linkedin.com/in/luke-richardson/) [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)
+Luke Richardson  
+[luke@lukeoson.io](mailto:luke@lukeoson.io) +447376209455  
+Central London - WeWork - Network Architect  
+[LinkedIn](https://www.linkedin.com/in/luke-richardson/) [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)
 
->Luke has a decade of network engineering experience in preparation for opportunities managing & orchestrating infrastructure at scale.
->He is considering roles that span purified technical, sales ecosystem, and team management.   
+> Luke has a decade of network engineering experience. He is considering different roles that span purified technical, sales ecosystem, and team management. 
 
 ### Daily Bread
 
@@ -24,46 +23,29 @@ Central London - WeWork - Network Architect\
 
 ### Certifications
 
-| **Current - [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)**| **Always Improving** 
-|:----------------------------:|:-----------------------------:
-| Cisco CCNA R&S. | Juniper Junos Automation 
-| Junos Associate x5: R&S, MistAI, Sec, DevOps, Cloud | Python and Ansible for Network Automation
-| Junos Specialist x3: R&S, MistAI, DevOps | Hashicorp Terraform & Vault
-| AWS Cloud Practitioner | AWS Solutions Architecture
-| Zabbix Specialist | AWS System Administration
-| Splunk Infrastructure | Advanced Splunk Visualisations
-| GitLab Associate | Jira Agile Workflows
-| Okta Professional | Confluence Knowledge Base
+| **[Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)**| 
+|----------------------------|
+| Cisco CCNA R&S. | 
+| Junos Associate x5: R&S, MistAI, Sec, DevOps, Cloud | 
+| Junos Specialist x3: R&S, MistAI, DevOps | 
+| AWS Cloud Practitioner | 
+| Zabbix Specialist | 
+| Splunk Infrastructure | 
+| GitLab Associate | 
+| Okta Professional | 
 
 ### Education 
 
-| Institute | Attendance | Accomplishment |
+| Where | When | What |
 | :---: | :---: | :---: 
-| [Bishop Stopford School](https://www.bishopstopford.com/) | 1997 - 2005 | x4 A-levels Grade A
-| [Queen Mary University of London](https://www.qmul.ac.uk/) | 2005 - 2008 | Politics & Government BA - 2:1
-| [YouTube](https://www.youtube.com/channel/UCRIOI_3REG9zIDM0Fp9Xiyg) | 2008 - 2023 | at least 10,000 hours
+| [Bishop Stopford](https://www.bishopstopford.com/) | 1997 - 2005 | x4 A-levels Grade A
+| [University of London](https://www.qmul.ac.uk/) | 2005 - 2008 | Politics BA - 2:1
+| [YouTube](https://www.youtube.com/channel/UCRIOI_3REG9zIDM0Fp9Xiyg) | 2008 - 2023 | > 10,000 hours
 
 ### Tech Jobs
 
-| Institute | Years | Role & Responsibility |
+| Where | When | What |
 | :----: | :----: | :----: 
 | [Dimension Data - NTT](https://www.dimensiondata.com/en-gb/) | 2012 - 2017 | PM to Network Engineer 
 | [Redstone - Now Onnec](https://www.onnecgroup.com/) | 2017 - 2018 | Network Engineer & TPM
 | [WeWork](https://www.wework.com/) | 2019 - 2023 | Network Architect - Global 
-
-***
-
-Hobbies
-- Rock Climbing. [North Wales Trad](https://www.ukclimbing.com/logbook/set.php?id=165) is my climbing homeland. 
-- Mountaineering. Northern India & Nepal. Ambition to climb [Abu Dablam](https://www.google.com/search?q=abu+dablam).
-
-***
-
-*🎉 Thank you for taking the time. Updates available at [resume.lukeoson.io](https://resume.lukeson.io) or puruse [Lukes's Portfolio](https://portfolio.lukeoson.io) for more verbose detail.*  
-
-              
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/lukeos', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
-<!-- Calendly badge widget end -->
