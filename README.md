@@ -58,7 +58,7 @@ Hobbies
 
 ***
 
-*🎉 Thank you for taking the time. 
+🎉 Thank you for taking the time. 
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
