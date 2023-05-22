@@ -67,21 +67,6 @@ Hobbies
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/lukeoson?style=social)
 
-
-<div class="horizontal-container">
-  <div class="left-container">
-    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="luke-richardson" data-version="v1">
-      <a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/luke-richardson?trk=profile-badge">Luke Richardson</a>
-    </div>
-  </div>
-  <div class="right-container">
-    <!-- Calendly inline widget begin -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/lukeos" style="min-width:320px;height:700px;"></div>
-    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-    <!-- Calendly inline widget end -->
-  </div>
-</div>
-
 <!DOCTYPE html>
 <html>
 <head>
