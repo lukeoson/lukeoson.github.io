@@ -88,7 +88,7 @@ Hobbies
 
 ***
 
-Wonderful books i have been reading most recently
+Wonderful books i have read recently. 
 
-![Recent_Books](https://photos.google.com/photo/AF1QipM6zyFPvW1QUr4tS5DV1lsmXMkPmnxNipfCATbm)
+![Recent_Books](https://github.com/lukeoson/lukeoson.github.io/blob/main/IMG_1544.jpeg)
 
