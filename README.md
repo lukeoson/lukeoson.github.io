@@ -67,12 +67,6 @@ Central London - exWeWork - Network Architect
 
 ***
 
-Hobbies
-- Rock Climbing. [North Wales Trad](https://www.ukclimbing.com/logbook/set.php?id=165). 
-- Mountaineering. Northern India & Nepal. 
-
-***
-
 🎉 Thank you for taking the time. Please don't hesitate to book time with my [Calandy](https://calendly.com/lukeos). Let's connect!  
 
 <!-- Calendly badge widget begin -->
@@ -86,3 +80,13 @@ Hobbies
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
+***
+
+Hobbies
+- Rock Climbing. [North Wales Trad](https://www.ukclimbing.com/logbook/set.php?id=165). 
+- Mountaineering. Northern India & Nepal. 
+
+***
+
+Recent awesome books i encourage all to read
+- note to self - add the picture of recents from bookshelf and list them out. perhaps link to your notes. perhaps not. 
