@@ -90,5 +90,6 @@ Hobbies:
 
 Wonderful books from my 2023 readings so far:
 
-![Recent_Books](https://github.com/lukeoson/lukeoson.github.io/blob/main/IMG_1544.jpeg)
+![books](https://github.com/lukeoson/lukeoson.github.io/blob/main/IMG_1544.jpeg?raw=true)
+
 
