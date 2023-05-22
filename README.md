@@ -135,3 +135,44 @@ Wonderful books from my 2023 readings so far:
     </td>
   </tr>
 </table>
+
+
+***
+
+<style>
+    @media screen and (max-width: 480px) {
+        div[data-iframe-width], table {
+            width: 100% !important;
+            max-width: 100% !important;
+        }
+    }
+</style>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+    <div style="width: 100%; margin-bottom: 20px;">
+        <table style="width: 100%;">
+            <tr><th><a href="https://www.credly.com/users/luke-richardson.dca3c027">Acclaim</a></th></tr>
+            <tr><td>Cisco CCNA R&amp;S.</td></tr>
+            <tr><td>Junos Associate x5: R&amp;S, MistAI, Sec, DevOps, Cloud.</td></tr>
+            <tr><td>Junos Specialist x3: R&amp;S, MistAI, DevOps.</td></tr>
+            <tr><td>AWS Cloud Practitioner.</td></tr>
+            <tr><td>Zabbix Specialist.</td></tr>
+            <tr><td>Splunk Infrastructure.</td></tr>
+            <tr><td>GitLab Associate.</td></tr>
+            <tr><td>Okta Professional.</td></tr>
+        </table>
+    </div>
+    <div style="width: 48%; max-width: 150px; margin-bottom: 20px;">
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="19d8864b-b0c0-4c51-ba1c-f5c88c3dd36b" data-share-badge-host="https://www.credly.com"></div>
+        <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    </div>
+    <div style="width: 48%; max-width: 150px; margin-bottom: 20px;">
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="134375b2-096b-4334-9df8-7b58295581c2" data-share-badge-host="https://www.credly.com"></div>
+        <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    </div>
+    <div style="width: 48%; max-width: 150px; margin-bottom: 20px;">
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="21619933-9e5d-44fd-96d3-ee5ae82815f0" data-share-badge-host="https://www.credly.com"></div>
+        <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    </div>
+</div>
+
