@@ -67,7 +67,7 @@ Central London - exWeWork - Network Architect
 
 ***
 
-🎉 Thank you for taking the time. Please don't hesitate to book time with my [Calandy](https://calendly.com/lukeos). Let's connect!  
+🎉 Thank you for taking the time. Please don't hesitate to book time with my [Calendly](https://calendly.com/lukeos). Let's connect!  
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
