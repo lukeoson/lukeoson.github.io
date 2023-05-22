@@ -94,3 +94,39 @@ Hobbies
 </body>
 </html>
 
+***
+
+<div style="display: flex; align-items: start;">
+  <table style="margin-right: 20px;">
+    <tr>
+      <th><a href="https://www.credly.com/users/luke-richardson.dca3c027">Acclaim</a></th>
+    </tr>
+    <tr>
+      <td>Cisco CCNA R&S.</td>
+    </tr>
+    <tr>
+      <td>Junos Associate x5: R&S, MistAI, Sec, DevOps, Cloud</td>
+    </tr>
+    <tr>
+      <td>Junos Specialist x3: R&S, MistAI, DevOps</td>
+    </tr>
+    <tr>
+      <td>AWS Cloud Practitioner</td>
+    </tr>
+    <tr>
+      <td>Zabbix Specialist</td>
+    </tr>
+    <tr>
+      <td>Splunk Infrastructure</td>
+    </tr>
+    <tr>
+      <td>GitLab Associate</td>
+    </tr>
+    <tr>
+      <td>Okta Professional</td>
+    </tr>
+  </table>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="luke-richardson" data-version="v1">
+    <a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/luke-richardson?trk=profile-badge">Luke Richardson</a>
+  </div>
+</div>
