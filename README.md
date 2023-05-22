@@ -85,20 +85,11 @@ Hobbies
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/lukeoson?style=social)
 
+***
 
 <div style="display: flex; justify-content: space-between;">
     <div style="width: 60%; margin-right: 2%;">
-        <ul>
-            <li>Product owner of IPFabric. An automated network assurance platform.</li>
-            <li>Product owner of Nautobot. A source of truth & orchestration platform.</li>
-            <li>Product owner of Netbox. A source of truth. Manage migration to Nautobot.</li>
-            <li>Administration of SplunkCloud. Visualisations. SOX compliance auditing.</li>
-            <li>Research of emerging technologies as WeWork iterates. NaaS. Automation.</li>
-            <li>Network upgrades & remediation. Mostly Junos & Cisco. Some Forti & Palo.</li>
-            <li>Mandate to inculcate a DevOps mindset and iterate towards mature CICD.</li>
-            <li>Stakeholder of transition to outsourced Network Operations and Franchise.</li>
-            <li>SSO Okta administration and RBAC provisioning.</li>
-        </ul>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.9474921642217!2d-0.13534059999999998!3d51.519386399999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b25e0f0f0dd%3A0xffc06a936b93fee5!2sLukeOS%20Labs%20Ltd!5e0!3m2!1sen!2s!4v1624557160453!5m2!1sen!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     </div>
     <div class="badge-base LI-profile-badge" style="width: 35%;" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="luke-richardson" data-version="v1">
         <a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/luke-richardson?trk=profile-badge">Luke Richardson</a>
@@ -106,3 +97,4 @@ Hobbies
 </div>
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
