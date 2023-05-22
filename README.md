@@ -67,7 +67,7 @@ Hobbies
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/lukeoson?style=social)
 
-<!DOCTYPE html>
+
 <html>
 <head>
     <meta charset="UTF-8">
@@ -85,7 +85,7 @@ Hobbies
   </div>
   <div class="right-container">
     <!-- Calendly inline widget begin -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/lukeos" style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="https://calendly.com/lukeos" style="min-width:320px;height:350px;"></div>
     <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
     <!-- Calendly inline widget end -->
   </div>
