@@ -81,15 +81,16 @@ Central London - exWeWork - Network Architect
             <a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/luke-richardson?trk=profile-badge">Luke Richardson</a>
         </div>
     </div>
-    <div style="position: relative; flex: 1;">
-        <div style="position: relative; padding-bottom: 75%; height: 0;">
-            <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FLondon&title=LukeOS%20Labs%20-%20Luke%20Richardson's%20Schedule&mode=AGENDA&src=bHVrZUBsdWtlb3MuaW8&src=bHVrZW9zb25AZ21haWwuY29t&src=ZW4udWsjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039BE5&color=%23B39DDB&color=%230B8043" 
+    <div style="position: relative;">
+        <div style="position: relative; padding-bottom: 90%; width: 100%;">
+            <iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FLondon&title=LukeOS%20Labs%20-%20Luke%20Richardson's%20Schedule&mode=AGENDA&src=bHVrZUBsdWtlb3MuaW8&src=bHVrZW9zb25AZ21haWwuY29t&src=ZW4udWsjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039BE5&color=%23B39DDB&color=%230B8043" 
                     style="border: none; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
                     frameborder="0" scrolling="no">
             </iframe>
         </div>
     </div>
 </div>
+
 
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
