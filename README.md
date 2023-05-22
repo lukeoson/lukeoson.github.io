@@ -66,3 +66,9 @@ Hobbies
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/lukeoson?style=social)
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="luke-richardson" data-version="v1">
+    <span class="badge-base__name">Luke Richardson</span>
+    <a class="badge-base__view-link" href="https://uk.linkedin.com/in/luke-richardson?trk=profile-badge">View profile</a>
+</div>
+
