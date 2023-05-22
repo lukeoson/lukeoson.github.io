@@ -21,16 +21,45 @@ Central London - WeWork - Network Architect
 
 ### Certifications
 
-| **[Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)**| 
-|----------------------------|
-| Cisco CCNA R&S. | 
-| Junos Associate x5: R&S, MistAI, Sec, DevOps, Cloud. | 
-| Junos Specialist x3: R&S, MistAI, DevOps. | 
-| AWS Cloud Practitioner. | 
-| Zabbix Specialist. | 
-| Splunk Infrastructure. | 
-| GitLab Associate. | 
-| Okta Professional. | 
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <table>
+      <tr>
+        <th><a href="https://www.credly.com/users/luke-richardson.dca3c027">Acclaim</a></th>
+      </tr>
+      <tr>
+        <td>Cisco CCNA R&S.</td>
+      </tr>
+      <tr>
+        <td>Junos Associate x5: R&S, MistAI, Sec, DevOps, Cloud.</td>
+      </tr>
+      <tr>
+        <td>Junos Specialist x3: R&S, MistAI, DevOps.</td>
+      </tr>
+      <tr>
+        <td>AWS Cloud Practitioner.</td>
+      </tr>
+      <tr>
+        <td>Zabbix Specialist.</td>
+      </tr>
+      <tr>
+        <td>Splunk Infrastructure.</td>
+      </tr>
+      <tr>
+        <td>GitLab Associate.</td>
+      </tr>
+      <tr>
+        <td>Okta Professional.</td>
+      </tr>
+    </table>
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="19d8864b-b0c0-4c51-ba1c-f5c88c3dd36b" data-share-badge-host="https://www.credly.com"></div>
+    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  </div>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="134375b2-096b-4334-9df8-7b58295581c2" data-share-badge-host="https://www.credly.com"></div>
+  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="21619933-9e5d-44fd-96d3-ee5ae82815f0" data-share-badge-host="https://www.credly.com"></div>
+  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</div>
 
 ### Education 
 
@@ -69,44 +98,4 @@ Hobbies
 ![Twitter Follow](https://img.shields.io/twitter/follow/lukeoson?style=social)
 
 
-
-
-***
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <table>
-      <tr>
-        <th><a href="https://www.credly.com/users/luke-richardson.dca3c027">Acclaim</a></th>
-      </tr>
-      <tr>
-        <td>Cisco CCNA R&S.</td>
-      </tr>
-      <tr>
-        <td>Junos Associate x5: R&S, MistAI, Sec, DevOps, Cloud.</td>
-      </tr>
-      <tr>
-        <td>Junos Specialist x3: R&S, MistAI, DevOps.</td>
-      </tr>
-      <tr>
-        <td>AWS Cloud Practitioner.</td>
-      </tr>
-      <tr>
-        <td>Zabbix Specialist.</td>
-      </tr>
-      <tr>
-        <td>Splunk Infrastructure.</td>
-      </tr>
-      <tr>
-        <td>GitLab Associate.</td>
-      </tr>
-      <tr>
-        <td>Okta Professional.</td>
-      </tr>
-    </table>
-  </div>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="134375b2-096b-4334-9df8-7b58295581c2" data-share-badge-host="https://www.credly.com"></div>
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="21619933-9e5d-44fd-96d3-ee5ae82815f0" data-share-badge-host="https://www.credly.com"></div>
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</div>
 
