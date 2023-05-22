@@ -82,13 +82,13 @@ Central London - exWeWork - Network Architect
 
 ***
 
-Hobbies
+Hobbies:
 - Rock Climbing. [North Wales Trad](https://www.ukclimbing.com/logbook/set.php?id=165). 
 - Mountaineering. Northern India & Nepal. 
 
 ***
 
-Wonderful books i have read recently. 
+Wonderful books from my 2023 readings so far:
 
 ![Recent_Books](https://github.com/lukeoson/lukeoson.github.io/blob/main/IMG_1544.jpeg)
 
