@@ -122,11 +122,19 @@ Wonderful books from my 2023 readings so far:
 
 ***
 
-<div style="position:relative;padding-bottom:75%;">
-    <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FLondon&title=LukeOS%20Labs%20-%20Luke%20Richardson's%20Schedule&mode=AGENDA&src=bHVrZUBsdWtlb3MuaW8&src=bHVrZW9zb25AZ21haWwuY29t&src=ZW4udWsjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039BE5&color=%23B39DDB&color=%230B8043" 
-            style="border:none;position:absolute;top:0;left:0;width:100%;height:100%;" 
-            frameborder="0" scrolling="no">
-    </iframe>
+<div style="display:flex;align-items:center;justify-content:space-between;">
+    <div style="margin-right:10px;">
+        <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="luke-richardson" data-version="v1">
+            <a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/luke-richardson?trk=profile-badge">Luke Richardson</a>
+        </div>
+    </div>
+    <div style="position:relative;padding-bottom:75%;">
+        <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FLondon&title=LukeOS%20Labs%20-%20Luke%20Richardson's%20Schedule&mode=AGENDA&src=bHVrZUBsdWtlb3MuaW8&src=bHVrZW9zb25AZ21haWwuY29t&src=ZW4udWsjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039BE5&color=%23B39DDB&color=%230B8043" 
+                style="border:none;position:absolute;top:0;left:0;width:100%;height:100%;" 
+                frameborder="0" scrolling="no">
+        </iframe>
+    </div>
 </div>
+
 
 
