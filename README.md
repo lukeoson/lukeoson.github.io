@@ -88,5 +88,7 @@ Hobbies
 
 ***
 
-Recent awesome books i encourage all to read
-- note to self - add the picture of recents from bookshelf and list them out. perhaps link to your notes. perhaps not. 
+Wonderful books i have been reading most recently
+
+![Recent_Books](https://photos.google.com/photo/AF1QipM6zyFPvW1QUr4tS5DV1lsmXMkPmnxNipfCATbm)
+
