@@ -24,13 +24,13 @@ Central London - WeWork - Network Architect
 | **[Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)**| 
 |----------------------------|
 | Cisco CCNA R&S. | 
-| Junos Associate x5: R&S, MistAI, Sec, DevOps, Cloud | 
-| Junos Specialist x3: R&S, MistAI, DevOps | 
-| AWS Cloud Practitioner | 
-| Zabbix Specialist | 
-| Splunk Infrastructure | 
-| GitLab Associate | 
-| Okta Professional | 
+| Junos Associate x5: R&S, MistAI, Sec, DevOps, Cloud. | 
+| Junos Specialist x3: R&S, MistAI, DevOps. | 
+| AWS Cloud Practitioner. | 
+| Zabbix Specialist. | 
+| Splunk Infrastructure. | 
+| GitLab Associate. | 
+| Okta Professional. | 
 
 ### Education 
 
