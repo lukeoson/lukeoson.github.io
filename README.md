@@ -31,7 +31,7 @@ Central London - WeWork - Network Architect
         <td>Cisco CCNA R&S.</td>
       </tr>
       <tr>
-        <td>Junos Associate x5: R&S, MistAI, Sec, DevOps, Cloud.</td>
+        <td>Junos Associate x4: R&S, MistAI, Sec, DevOps.</td>
       </tr>
       <tr>
         <td>Junos Specialist x3: R&S, MistAI, DevOps.</td>
