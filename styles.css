@@ -1,0 +1,9 @@
+.horizontal-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-container,
+.right-container {
+  flex: 1;
+}
