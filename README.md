@@ -103,16 +103,14 @@ Wonderful books from my 2023 readings so far:
 <li><a href="https://www.amazon.co.uk/Invention-Innovation-Brief-History-Failure/dp/0262048051/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1684770328&sr=1-1">Invention and Innovation. Vaclav Smil</a></li>
 <li><a href="https://www.amazon.co.uk/Thousand-Brains-New-Theory-Intelligence/dp/1541675797/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684770411&sr=1-1">A Thousand Brains. Jeff Hawkins</a></li>
 <li><a href="https://www.amazon.co.uk/Build-Mathematical-Mind-Detective-Critical/dp/B0BTGFK7FX/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684770454&sr=1-1">Build a Mathematical Mind. Albert Rutherford</a></li>
-<li><a href="https://www.amazon.co.uk/Hunter-Gatherers-Guide-21st-Century-Evolution-Challenges/dp/1800750943/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684770553&sr=1-1">A Hunter-Gatherer's Guide to the 21st Century. Heather & Bret</a></li>
+<li><a href="https://www.amazon.co.uk/Hunter-Gatherers-Guide-21st-Century-Evolution-Challenges/dp/1800750943/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684770553&sr=1-1">A Hunter-Gatherer's Guide to the 21st Century.</a></li>
 <li><a href="https://www.amazon.co.uk/Cosmos-Cosmic-Evolution-Science-Civilisation/dp/0349107033/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684770613&sr=1-1">Cosmos. Carl Segan</a></li>
 <li><a href="https://www.amazon.co.uk/WINEMASTERS-FAITH-NICHOLAS/dp/B001XIIE24/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684770658&sr=1-1">How the World Really Works. Vaclav Smil</a></li>
 <li><a href="https://www.amazon.co.uk/Waking-Up-Searching-Spirituality-Religion/dp/1784160024/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684770707&sr=1-1">Waking Up. Sam Harris</a></li>
 <li><a href="https://www.amazon.co.uk/Free-Will-Sam-Harris/dp/1451683405/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684770766&sr=1-1">Free Will. Sam Harris</a></li>
 <li><a href="https://www.amazon.co.uk/Better-Angels-Our-Nature-Violence/dp/0141034645/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684770801&sr=1-1">The Better Angels of our Nature. Steven Pinker</a></li>
 <li><a href="https://www.amazon.co.uk/Serious-Adverse-Events-Uncensored-History/dp/1645022072/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684770851&sr=1-1">Serious Adverse Events. Chelsea Green</a></li>
-</ul>
 
-</ul>
       
     </td>
     <td style="width: 50%;">
