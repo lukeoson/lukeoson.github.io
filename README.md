@@ -73,7 +73,7 @@ Hobbies
 
 ***
 
-🎉 Thanks for taking the time. Please don't hesitate to book time with my [Calandy](https://calendly.com/lukeos). Let's connect!  
+🎉 Thank you for taking the time. Please don't hesitate to book time with my [Calandy](https://calendly.com/lukeos). Let's connect!  
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
@@ -82,11 +82,6 @@ Hobbies
 <!-- Calendly badge widget end -->
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="luke-richardson" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/luke-richardson?trk=profile-badge">Luke Richardson</a></div>
-              
-![Twitter Follow](https://img.shields.io/twitter/follow/lukeoson?style=social)
-
-***
-
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
