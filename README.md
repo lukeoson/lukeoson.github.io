@@ -9,7 +9,7 @@ Central London - WeWork - Network Architect
 
 > Luke Richardson, a seasoned network engineer, has proven adept at crafting integrative solutions, automating workflows, and understanding the sales engineering landscape. His expertise extends to an intuitive grasp of constraints and business logic, making him proficient at aligning technical solutions with business objectives. As such, he is primed for strategic roles where he can drive innovation, shape future technology directions, and facilitate the intersection of technical complexity with customer-centric sales strategies.
 
-### Daily Bread
+### Recent Responsibilities 
 
 - Product owner of [IPFabric](https://ipfabric.io/). An automated network assurance platform.  
 - Product owner of [Nautobot](https://www.networktocode.com/nautobot/). A source of truth & orchestration platform.
@@ -53,12 +53,12 @@ Central London - WeWork - Network Architect
 ***
 
 Hobbies
-- Rock Climbing. [North Wales Trad](https://www.ukclimbing.com/logbook/set.php?id=165) is my climbing homeland. 
-- Mountaineering. Northern India & Nepal. Ambition to climb [Abu Dablam](https://www.google.com/search?q=abu+dablam).
+- Rock Climbing. [North Wales Trad](https://www.ukclimbing.com/logbook/set.php?id=165). 
+- Mountaineering. Northern India & Nepal. 
 
 ***
 
-🎉 Thank you for taking the time. 
+🎉 Thanks for taking the time. Please don't hesitate to book time with my [Calandy](https://calendly.com/lukeos). Let's connect!  
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
