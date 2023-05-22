@@ -1,6 +1,6 @@
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.9474921642217!2d-0.13534059999999998!3d51.519386399999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b25e0f0f0dd%3A0xffc06a936b93fee5!2sLukeOS%20Labs%20Ltd!5e0!3m2!1sen!2s!4v1624557160453!5m2!1sen!2s" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-  /n 
+***
 [luke@lukeos.io](mailto:luke@lukeos.io) +447376209455  
 Central London - WeWork - Network Architect  
 [LinkedIn](https://www.linkedin.com/in/luke-richardson/) [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)
@@ -69,34 +69,11 @@ Hobbies
 ![Twitter Follow](https://img.shields.io/twitter/follow/lukeoson?style=social)
 
 
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>My Website</title>
-    <link rel="stylesheet" href="styles.css">
-    <!-- Other metadata and link tags go here -->
-</head>
-<body>
-    <!-- Content of the webpage goes here -->
-  <div class="horizontal-container">
-  <div class="left-container">
-    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="luke-richardson" data-version="v1">
-      <a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/luke-richardson?trk=profile-badge">Luke Richardson</a>
-    </div>
-  </div>
-  <div class="right-container">
-    <!-- Calendly inline widget begin -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/lukeos" style="min-width:320px;height:350px;"></div>
-    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-    <!-- Calendly inline widget end -->
-  </div>
-</div>
-</body>
-</html>
+
 
 ***
 
-<div style="display: flex; align-items: start;">
+<div style="display: flex; justify-content: space-between;">
   <table style="margin-right: 20px;">
     <tr>
       <th><a href="https://www.credly.com/users/luke-richardson.dca3c027">Acclaim</a></th>
@@ -126,11 +103,7 @@ Hobbies
       <td>Okta Professional</td>
     </tr>
   </table>
-  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="luke-richardson" data-version="v1">
-    <a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/luke-richardson?trk=profile-badge">Luke Richardson</a>
-  </div>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="21619933-9e5d-44fd-96d3-ee5ae82815f0" data-share-badge-host="https://www.credly.com"></div>
+  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 
-***
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="21619933-9e5d-44fd-96d3-ee5ae82815f0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
