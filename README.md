@@ -86,4 +86,27 @@ Hobbies
 ![Twitter Follow](https://img.shields.io/twitter/follow/lukeoson?style=social)
 
 
+<div style="display: flex; justify-content: space-between;">
+    <div style="width: 60%; margin-right: 2%;">
+        <h2>Recent Responsibilities</h2>
+        <ul>
+            <li>Product owner of IPFabric. An automated network assurance platform.</li>
+            <li>Product owner of Nautobot. A source of truth & orchestration platform.</li>
+            <li>Product owner of Netbox. A source of truth. Manage migration to Nautobot.</li>
+            <li>Administration of SplunkCloud. Visualisations. SOX compliance auditing.</li>
+            <li>Research of emerging technologies as WeWork iterates. NaaS. Automation.</li>
+            <li>Network upgrades & remediation. Mostly Junos & Cisco. Some Forti & Palo.</li>
+            <li>Mandate to inculcate a DevOps mindset and iterate towards mature CICD.</li>
+            <li>Stakeholder of transition to outsourced Network Operations and Franchise.</li>
+            <li>SSO Okta administration and RBAC provisioning.</li>
+        </ul>
+    </div>
+    <div class="badge-base LI-profile-badge" style="width: 35%;" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="luke-richardson" data-version="v1">
+        <a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/luke-richardson?trk=profile-badge">Luke Richardson</a>
+    </div>
+</div>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+
 
