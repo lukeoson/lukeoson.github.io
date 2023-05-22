@@ -81,20 +81,13 @@ Hobbies
 <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/lukeos', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
 <!-- Calendly badge widget end -->
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="luke-richardson" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/luke-richardson?trk=profile-badge">Luke Richardson</a></div>
+              
 ![Twitter Follow](https://img.shields.io/twitter/follow/lukeoson?style=social)
 
 ***
 
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 60%; margin-right: 2%;">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.9474921642217!2d-0.13534059999999998!3d51.519386399999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b25e0f0f0dd%3A0xffc06a936b93fee5!2sLukeOS%20Labs%20Ltd!5e0!3m2!1sen!2s!4v1624557160453!5m2!1sen!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-    </div>
-    <div class="badge-base LI-profile-badge" style="width: 35%;" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="luke-richardson" data-version="v1">
-        <a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/luke-richardson?trk=profile-badge">Luke Richardson</a>
-    </div>
-</div>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
