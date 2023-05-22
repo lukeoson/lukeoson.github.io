@@ -88,7 +88,6 @@ Hobbies
 
 <div style="display: flex; justify-content: space-between;">
     <div style="width: 60%; margin-right: 2%;">
-        <h2>Recent Responsibilities</h2>
         <ul>
             <li>Product owner of IPFabric. An automated network assurance platform.</li>
             <li>Product owner of Nautobot. A source of truth & orchestration platform.</li>
@@ -107,6 +106,3 @@ Hobbies
 </div>
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
-
-
