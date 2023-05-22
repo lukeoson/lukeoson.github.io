@@ -8,3 +8,8 @@
     flex: 1 1 20em;
     margin: 10px;
 }
+
+.img-responsive {
+    max-width: 100%;
+    height: auto;
+}
