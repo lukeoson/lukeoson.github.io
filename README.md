@@ -20,20 +20,34 @@ Central London - WeWork - Network Architect
 - SSO [Okta](https://okta.com) administration and RBAC provisioning.
 
 ### Certifications
-
-<div class="container">
-  <div>
-    <table>
-      <!-- your table content here -->
-    </table>
-    <div data-iframe-width="100" data-iframe-height="180" data-share-badge-id="19d8864b-b0c0-4c51-ba1c-f5c88c3dd36b" data-share-badge-host="https://www.credly.com"></div>
-    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  </div>
-  <div data-iframe-width="100" data-iframe-height="180" data-share-badge-id="134375b2-096b-4334-9df8-7b58295581c2" data-share-badge-host="https://www.credly.com"></div>
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-  <div data-iframe-width="100" data-iframe-height="180" data-share-badge-id="21619933-9e5d-44fd-96d3-ee5ae82815f0" data-share-badge-host="https://www.credly.com"></div>
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div style="display: flex; justify-content: space-between;">
+    <div>
+        <table>
+            <tr><th><a href="https://www.credly.com/users/luke-richardson.dca3c027">Acclaim</a></th></tr>
+            <tr><td>Cisco CCNA R&S.</td></tr>
+            <tr><td>Junos Associate x5: R&S, MistAI, Sec, DevOps, Cloud.</td></tr>
+            <tr><td>Junos Specialist x3: R&S, MistAI, DevOps.</td></tr>
+            <tr><td>AWS Cloud Practitioner.</td></tr>
+            <tr><td>Zabbix Specialist.</td></tr>
+            <tr><td>Splunk Infrastructure.</td></tr>
+            <tr><td>GitLab Associate.</td></tr>
+            <tr><td>Okta Professional.</td></tr>
+        </table>
+    </div>
+    <div>
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="19d8864b-b0c0-4c51-ba1c-f5c88c3dd36b" data-share-badge-host="https://www.credly.com"></div>
+        <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    </div>
+    <div>
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="134375b2-096b-4334-9df8-7b58295581c2" data-share-badge-host="https://www.credly.com"></div>
+        <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    </div>
+    <div>
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="21619933-9e5d-44fd-96d3-ee5ae82815f0" data-share-badge-host="https://www.credly.com"></div>
+        <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    </div>
 </div>
+
 
 ### Education 
 
