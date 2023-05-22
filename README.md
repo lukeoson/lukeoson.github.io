@@ -116,7 +116,7 @@ Wonderful books from my 2023 readings so far:
     <td style="vertical-align: top; width: 50%;">
       
 <ul>
-<li><a href="https://www.amazon.co.uk/Precipice-Existential-Risk-Future-Humanity/dp/B07ZHNXD1X/ref=sr_1_1?crid=15Z27APQ8KB8J&keywords=the+precipice&qid=1684769364&s=books&sprefix=the+prepipeice%2Cstripbooks%2C919&sr=1-1">The Precipice. Toby Ord</a></li>
+<li>Wonderful books from my 2023 readings so far:</li>
 <ul>
 <li><a href="https://www.amazon.co.uk/Precipice-Existential-Risk-Future-Humanity/dp/B07ZHNXD1X/ref=sr_1_1?crid=15Z27APQ8KB8J&keywords=the+precipice&qid=1684769364&s=books&sprefix=the+prepipeice%2Cstripbooks%2C919&sr=1-1">The Precipice. Toby Ord</a></li>
 <li><a href="https://www.amazon.co.uk/Life-3-0-Being-Artificial-Intelligence/dp/0141981806/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684769502&sr=1-1">Life 3.0. Max Tegmark</a></li>
