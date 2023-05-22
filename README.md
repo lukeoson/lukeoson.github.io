@@ -7,7 +7,7 @@ Luke Richardson
 Central London - WeWork - Network Architect  
 [LinkedIn](https://www.linkedin.com/in/luke-richardson/) [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)
 
-> Luke has a decade of network engineering experience. He is considering different roles that span purified technical, sales ecosystem, and team management. 
+> Luke Richardson, a seasoned network engineer, has proven adept at crafting integrative solutions, automating workflows, and understanding the sales engineering landscape. His expertise extends to an intuitive grasp of constraints and business logic, making him proficient at aligning technical solutions with business objectives. As such, he is primed for strategic roles where he can drive innovation, shape future technology directions, and facilitate the intersection of technical complexity with customer-centric sales strategies.
 
 ### Daily Bread
 
