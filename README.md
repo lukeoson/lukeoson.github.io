@@ -93,6 +93,12 @@ Wonderful books from my 2023 readings so far:
 - [The Precipice by Toby Ord](https://www.amazon.co.uk/Precipice-Existential-Risk-Future-Humanity/dp/B07ZHNXD1X/ref=sr_1_1?crid=15Z27APQ8KB8J&keywords=the+precipice&qid=1684769364&s=books&sprefix=the+prepipeice%2Cstripbooks%2C919&sr=1-1)
 - [Life 3.0 by Max Tegmark](https://www.amazon.co.uk/Life-3-0-Being-Artificial-Intelligence/dp/0141981806/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684769502&sr=1-1)
 - [Blitzed by Norman Ohler](https://www.amazon.co.uk/Blitzed-Drugs-Germany-Norman-Ohler/dp/0141983167/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684769565&sr=1-1)
+- [Super Intelligence by Nick Bostrom](https://www.amazon.co.uk/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684770100&sr=1-1)
+- [Impromptu by Reid Hoffman](https://www.amazon.co.uk/Impromptu-Amplifying-Our-Humanity-Through/dp/B0BYLSCPPV/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684770154&sr=1-1)
+- [What Is ChatGPT Doing by Stephen Wolfram](https://www.amazon.co.uk/What-ChatGPT-Doing-Does-Work/dp/1579550819/ref=sr_1_1?crid=L1SGSY99BSUK&keywords=what+is+chatgpt+doing+...+and+why+does+it+work&qid=1684770234&s=books&sprefix=what+is+chatgpt+doing+...+and+why+does+it+work+%2Cstripbooks%2C208&sr=1-1)
+- [Invention and Innovation by Vaclav Smil](https://www.amazon.co.uk/Invention-Innovation-Brief-History-Failure/dp/0262048051/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1684770328&sr=1-1)
+- [A Thousand Brains by Jeff Hawkins](https://www.amazon.co.uk/Thousand-Brains-New-Theory-Intelligence/dp/1541675797/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684770411&sr=1-1)
+- [Build a Mathematical Mind by Albert Rutherford](https://www.amazon.co.uk/Build-Mathematical-Mind-Detective-Critical/dp/B0BTGFK7FX/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684770454&sr=1-1)
 - 
 
 ![books](https://github.com/lukeoson/lukeoson.github.io/blob/main/IMG_1544.jpeg?raw=true)
