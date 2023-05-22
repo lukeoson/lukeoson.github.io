@@ -102,17 +102,16 @@ Wonderful books from my 2023 readings so far:
 <table>
   <tr>
     <td>
-
-- [The Precipice by Toby Ord](https://www.amazon.co.uk/Precipice-Existential-Risk-Future-Humanity/dp/B07ZHNXD1X/ref=sr_1_1?crid=15Z27APQ8KB8J&keywords=the+precipice&qid=1684769364&s=books&sprefix=the+prepipeice%2Cstripbooks%2C919&sr=1-1)
-- [Life 3.0 by Max Tegmark](https://www.amazon.co.uk/Life-3-0-Being-Artificial-Intelligence/dp/0141981806/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684769502&sr=1-1)
-- [Blitzed by Norman Ohler](https://www.amazon.co.uk/Blitzed-Drugs-Germany-Norman-Ohler/dp/0141983167/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684769565&sr=1-1)
-
+      <ul>
+        <li><a href="https://www.amazon.co.uk/Precipice-Existential-Risk-Future-Humanity/dp/B07ZHNXD1X/ref=sr_1_1?crid=15Z27APQ8KB8J&keywords=the+precipice&qid=1684769364&s=books&sprefix=the+prepipeice%2Cstripbooks%2C919&sr=1-1">The Precipice by Toby Ord</a></li>
+        <li><a href="https://www.amazon.co.uk/Life-3-0-Being-Artificial-Intelligence/dp/0141981806/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684769502&sr=1-1">Life 3.0 by Max Tegmark</a></li>
+        <li><a href="https://www.amazon.co.uk/Blitzed-Drugs-Germany-Norman-Ohler/dp/0141983167/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1684769565&sr=1-1">Blitzed by Norman Ohler</a></li>
+      </ul>
     </td>
     <td>
-
-![books](https://github.com/lukeoson/lukeoson.github.io/blob/main/IMG_1544.jpeg?raw=true)
-
+      <img src="https://github.com/lukeoson/lukeoson.github.io/blob/main/IMG_1544.jpeg?raw=true" alt="books">
     </td>
   </tr>
-</table>
+</table
+
 
