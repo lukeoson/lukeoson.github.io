@@ -138,7 +138,17 @@ Wonderful books from my 2023 readings so far:
 
 ***
 
-<a href="https://hello.lukeos.io/" target="_blank">Visit my website</a>
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+    <div>
+        <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="luke-richardson" data-version="v1">
+            <a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/luke-richardson?trk=profile-badge">Luke Richardson</a>
+        </div>
+    </div>
+    <div style="flex-grow: 1; margin-left: 10px;">
+        <div style="position: relative; padding-bottom: calc(56.25% - 44px); height: 0;">
+            <iframe src="https://hello.lukeos.io/employment-history/" style="border: none; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+        </div>
+    </div>
+</div>
 
-<iframe src="https://hello.lukeos.io/" width="800px" height="600px"></iframe>
 
