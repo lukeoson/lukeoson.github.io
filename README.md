@@ -82,14 +82,12 @@ Central London - exWeWork - Network Architect
         </div>
     </div>
     <div style="flex-grow: 1; margin-left: 10px;">
+        <a href="https://hello.lukeos.io/" target="_blank" style="display: block; margin-bottom: 10px; text-align: center;">Visit LukeOS.io for more detail. Or see the embed below.</a>
         <div style="position: relative; padding-bottom: calc(56.25% - 44px); height: 0;">
-            <iframe src="https://hello.lukeos.io/employment-history/" style="border: none; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
+            <iframe src="https://hello.lukeos.io/" style="border: none; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
         </div>
     </div>
 </div>
-
-
-
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
