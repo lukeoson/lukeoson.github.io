@@ -74,6 +74,7 @@ Central London - exWeWork - Network Architect
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/lukeos', text: 'Schedule time with Luke', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
 <!-- Calendly badge widget end -->
+
 <div style="display: flex; align-items: start; justify-content: space-between; width: 100%;">
     <div>
         <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="luke-richardson" data-version="v1">
@@ -82,7 +83,7 @@ Central London - exWeWork - Network Architect
     </div>
     <div style="flex-grow: 1; margin-left: 10px;">
         <a href="https://hello.lukeos.io/employment-history/" target="_blank" style="display: block; margin-bottom: 10px; text-align: center;">Visit lukeos.io for more detail. Or see the embed below.</a>
-        <div style="position: relative; padding-bottom: calc(56.25% - 24px); height: 0; padding-top: 20px; padding-bottom: 20px;">
+        <div style="position: relative; padding-bottom: calc(56.25% - 24px); height: 0; padding-top: 25px; padding-bottom: 10px;">
             <iframe src="https://hello.lukeos.io/" style="border: none; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
         </div>
     </div>
