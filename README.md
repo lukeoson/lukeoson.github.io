@@ -79,7 +79,7 @@ Central London - exWeWork - Network Architect
 
 <div style="display: flex; align-items: start; justify-content: space-between; width: 100%;">
     <div>
-        <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="luke-richardson" data-version="v1">
+        <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="small" data-theme="light" data-type="HORIZONTAL" data-vanity="luke-richardson" data-version="v1">
             <a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/luke-richardson?trk=profile-badge">Luke Richardson</a>
         </div>
     </div>
