@@ -133,20 +133,12 @@ Wonderful books from my 2023 readings so far:
   </tr>
 </table>
 
+Computer Man!
 
-<div style="display: flex; align-items: start; justify-content: space-between; width: 100%;">
-    <div>
-        <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="luke-richardson" data-version="v1">
-            <a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/luke-richardson?trk=profile-badge">Luke Richardson</a>
-        </div>
-    </div>
-    <div style="flex-grow: 1; margin-left: 10px;">
-        <a href="https://hello.lukeos.io/" target="_blank" style="display: block; margin-bottom: 10px; text-align: center;">Visit lukeos.io for more detail. Or see the embed below.</a>
-        <div style="position: relative; padding-bottom: calc(56.25% - 24px); height: 0; padding-top: 25px;">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/jeg_TJvkSjg?start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        </div>
-    </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/jeg_TJvkSjg?start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0;"></iframe>
 </div>
+
 
 
 
