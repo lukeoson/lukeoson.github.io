@@ -133,13 +133,17 @@ Wonderful books from my 2023 readings so far:
   </tr>
 </table>
 
-Computer Man!
+***
+
+Computer Man! Thanks for visiting. Have a great day. 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/jeg_TJvkSjg?start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0;"></iframe>
 </div>
 
+***
 
+Bye. ♾️
 
 
 
