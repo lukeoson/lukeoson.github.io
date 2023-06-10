@@ -121,6 +121,8 @@ T: A proactive roadshow to reach out to all teams and empathetically hear their 
 A: I sought perspectives of multiple departments to improve cross function participation. 
 R: A cultural shift to a Knowledge Base that inspired more cooperation and skill transfer.
 
+***
+
 ### Projects at WeWork - *A few samples, many more besides*.
 
 **IPFabric:** At WeWork, I championed and owned the implementation of IPFabric, securing a $500,000 annual investment. We discovered 10,000 devices via SSH and API, leveraging IPFabric’s intent verification to ensure the integrity of circa 150,000 host nodes. I began work to automate IPFabric using the Python SDK with some fruitful efficiencies. As an IPFabric expert, I have since served as an advisor for multiple VC funds prospecting investment in the emerging assurance and observability space.
@@ -173,7 +175,7 @@ Managed Sites: 750 Branch locations spanning AMER, EMEA, APAC.
 - Juniper Mist, Ruckus VSZ, Cisco Local.
 - OOB - Opengear Console. Lighthouse Manager PoC.
 
-### Managed Data Centre: *x4 Santa Clara, New York, London, Singapore.* 
+#### Managed Data Centre: *x4 Santa Clara, New York, London, Singapore.* 
 
 *Participant in Data Centre refresh & transformation project 2021-2022.*
 
@@ -190,19 +192,20 @@ Managed Sites: 750 Branch locations spanning AMER, EMEA, APAC.
 - Cisco DNA Spaces - Wifi Locationing Projects.
 - Splunk Forwarders - UDP Syslog collectors pushing TCP upstream.
  
-### Systems in AWS: *Direct responsibility.*
+#### Systems in AWS: *Direct responsibility.*
 
 *VPC, EC2, EBS, S3, RDS, IAM, Route53, Docker, Linux management.*
 
 - Netbox, Nautobot, IPFabric - Design & Engineering.
 - Panorama, Forti Manager, Splunk Forwarders - Oversight & RBAC SSO.
 
-### SaaS Systems: *Administrative owner.*
+#### SaaS Systems: *Administrative owner.*
 
 - SplunkCloud - Owner Admin. Visualisations. SOX compliance auditing.
 - Splunk Enterprise Security - Owner Admin. Visualisations. Cyber Security reviews.
 - Okta SSO - Admin. SAML & OpenID App provisioning, RBAC.
 
+***
 
 ### Travel and community participation at WeWork
 
@@ -210,13 +213,18 @@ I was fortunate to have ample travel opportunities at WeWork before and followin
 
 ***
 
-Hobbies:
+### Hobbies:
+
 - Rock Climbing. [North Wales Trad](https://www.ukclimbing.com/logbook/set.php?id=165). 
 - Mountaineering. Northern India & Nepal. 
 
 ***
 
-Wonderful books from my 2023 readings so far:
+### My Face
+
+insert profile pic
+
+### Wonderful books from my 2023 readings so far:
 
 <table>
   <tr>
@@ -249,7 +257,7 @@ Wonderful books from my 2023 readings so far:
 
 ***
 
-Computer Man! (Something to make you smile) Thank you for visiting. Have a great day. 
+### Computer Man! *(Something to make you smile)* Thank you for visiting. Have a great day. 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/jeg_TJvkSjg?start=20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0;"></iframe>
@@ -257,7 +265,7 @@ Computer Man! (Something to make you smile) Thank you for visiting. Have a great
 
 ***
 
-Bye. ♾️
+### Bye. ♾️
 
 
 
