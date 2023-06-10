@@ -53,19 +53,19 @@ Central London - exWeWork - Network Architect, Automation, Systems Engineering, 
     <td style="vertical-align: top; width: 79%; padding-top: 30px;">
         <div style="display: flex; justify-content: space-between;">
             <div>
-                <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cbf202b7-4bd0-49f6-8edc-265dee4c64bd" data-share-badge-host="https://www.credly.com"></div>
+                <div data-iframe-width="140" data-iframe-height="270" data-share-badge-id="cbf202b7-4bd0-49f6-8edc-265dee4c64bd" data-share-badge-host="https://www.credly.com"></div>
                 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
             </div>
             <div>
-                <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="19d8864b-b0c0-4c51-ba1c-f5c88c3dd36b" data-share-badge-host="https://www.credly.com"></div>
+                <div data-iframe-width="140" data-iframe-height="270" data-share-badge-id="19d8864b-b0c0-4c51-ba1c-f5c88c3dd36b" data-share-badge-host="https://www.credly.com"></div>
                 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
             </div>
             <div>
-                <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="134375b2-096b-4334-9df8-7b58295581c2" data-share-badge-host="https://www.credly.com"></div>
+                <div data-iframe-width="140" data-iframe-height="270" data-share-badge-id="134375b2-096b-4334-9df8-7b58295581c2" data-share-badge-host="https://www.credly.com"></div>
                 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
             </div>
             <div>
-                <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="21619933-9e5d-44fd-96d3-ee5ae82815f0" data-share-badge-host="https://www.credly.com"></div>
+                <div data-iframe-width="140" data-iframe-height="270" data-share-badge-id="21619933-9e5d-44fd-96d3-ee5ae82815f0" data-share-badge-host="https://www.credly.com"></div>
                 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
             </div>
         </div>
