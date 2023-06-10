@@ -18,25 +18,6 @@ Central London - exWeWork - Network Architect, Automation, Systems Engineering, 
 - Data Centre transformation project to consolidate AMER, EMEA, APAC.
 - Management and ownership of On-Prem & AWS Linux Server Infrastructure.
 
-
-### Certifications
-
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        <table>
-            <tr><th><a href="https://www.credly.com/users/luke-richardson.dca3c027">Acclaim</a></th></tr>
-            <tr><td>Cisco CCNA R&S.</td></tr>
-            <tr><td>Junos Associate x5: R&S, MistAI, Sec, DevOps, Cloud.</td></tr>
-            <tr><td>Junos Specialist x3: R&S, MistAI, DevOps.</td></tr>
-            <tr><td>AWS Cloud Practitioner.</td></tr>
-            <tr><td>Zabbix Specialist.</td></tr>
-            <tr><td>Splunk Infrastructure.</td></tr>
-            <tr><td>GitLab Associate.</td></tr>
-            <tr><td>Okta Professional.</td></tr>
-        </table>
-    </div>
-</div>
-
 ### Education 
 
 | Where | When | What |
@@ -53,11 +34,9 @@ Central London - exWeWork - Network Architect, Automation, Systems Engineering, 
 | [Redstone - Now Onnec](https://www.onnecgroup.com/) | 2017 - 2018 | Network Engineer & TPM
 | [Dimension Data - NTT](https://www.dimensiondata.com/en-gb/) | 2012 - 2017 | PM to Network Engineer 
 
-
-
 ***
 
-🎉 Thank you. Please don't hesitate to book time with my [Calendly](https://calendly.com/lukeos). 
+Please don't hesitate to book time with my [Calendly](https://calendly.com/lukeos). 
 
 ***
 
@@ -78,7 +57,36 @@ S: At WeWork I had exposure to engineering pain points as a NOC manager.
 T: I proactively set out to simplify and streamline ticket resolution processes.
 A: I delivered simplified intuitive automations to reduce repetitive manual processes.
 R: WeWork was able to optimise technology services to improve margin and experience.
-***
+
+I uphold **financial prudence** by identifying savings and efficiencies, meticulously defining and adhering to budgets, thereby sustaining and improving network systems with an unyielding focus on driving exceptional business value.
+
+S: WeWork ran a complex multi vendor network stack that was expensive to support.
+T: Participate in the design of a cost optimised move to Juniper full stack.
+A: I achieved economies of scale in the delivery and build of a global network refresh project. 
+R: Deep simplifications drove 25% cost reduction in new building network infrastructure.
+
+I harness my skills in **people management** to cultivate an adaptive, agile work climate that ignites excellence, promotes seamless collaboration, and caters to a diverse range of engineering and business roles, all while championing knowledge transfer and facilitating effortless business liaison.
+
+S: My time at WeWork was punctuated by multiple restructures and headcount reductions. 
+T: Build a high performing team that did much more with dramatically less resources.
+A: I drove the adoption of an outsourced NOC that freed up internal specialists to thrive. 
+R: Improved culture with space to breathe and invest in strategic vision and key initiatives.
+
+I am **accountable** for influencing solution design towards secure and automated simplicity, executing low-level designs, facilitating knowledge transition into operations, providing expert guidance, leading technical projects, and resolving incidents to fortify operational platforms and services.
+
+S: WeWork lacked an end to end solution for assuring asset management and network visibility. 
+T: Build a best in class integrated pipeline of monitoring and visibility tools, systems, platforms. 
+A: I achieved approval for the procurement of IPFabric with a value driven business case.
+R: Accurately map intent to configuration drift to improve network outcomes for Members and provide valuable insights to InfoSec.
+
+I leverage my **knowledge, skills, and experience** to design, build, and operate simplified and robust network systems. My passion for researching emerging technology trends and collaboration with stakeholders cultivates relationships that drive business value by scoping and quoting to optimise utilisation and scalability.
+
+S: WeWork operated an oversized unscalable network core and a poor wireless environment. 
+T: Improve Member NPS by reimagining the wireless environment.
+A: I participated in the adoption of a Juniper Mist Wifi design to improve the experience.
+R: 30% reduction in reported poor wireless experience and improved NPS.
+
+
 
 Hobbies:
 - Rock Climbing. [North Wales Trad](https://www.ukclimbing.com/logbook/set.php?id=165). 
