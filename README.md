@@ -43,14 +43,14 @@ Central London - exWeWork - Network Architect, Automation, Systems Engineering, 
 
 <table style="width: 100%;">
   <tr>
-    <td style="vertical-align: top; width: 24%;">
+    <td style="vertical-align: top; width: 21%;">
         <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="luke-richardson" data-version="v1">
             <a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/luke-richardson?trk=profile-badge">Luke Richardson</a>
         </div>
         <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
         <script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
     </td>
-    <td style="vertical-align: top; width: 76%; padding-top: 30px;">
+    <td style="vertical-align: top; width: 79%; padding-top: 30px;">
         <div style="display: flex; justify-content: space-between;">
             <div>
                 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cbf202b7-4bd0-49f6-8edc-265dee4c64bd" data-share-badge-host="https://www.credly.com"></div>
