@@ -10,7 +10,7 @@
 Central London - exWeWork - Network Architect, Automation, Systems Engineering, Product & Team Management, and such.   
 [LinkedIn](https://www.linkedin.com/in/luke-richardson/) [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)
 
-> With a background managing network teams & systems engineering, I am prepared for, and interested in, a variety of senior career tracts that span systems engineering, network architecture, product and team management, and sales engineering. Above all, I want to make impactful contributions to drive business success. Company first, role and position second.
+> With a background managing network teams & systems engineering, I am prepared for, and interested in, a variety of senior career tracts that span systems engineering, network architecture, product & team management, & sales engineering. Above all, I want to make impactful contributions to drive business success. Company first, role and position second.
 
 ### Recent Responsibilities at WeWork
 
