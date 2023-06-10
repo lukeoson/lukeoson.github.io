@@ -221,7 +221,7 @@ I was fortunate to have ample travel opportunities at WeWork before and followin
 
 <div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
     <div style="flex: 1; padding-right: 10px;">
-        <img src="luke_bg_sky.png" alt="Luke against the sky" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+        <img src="luke-bg-sky.png" alt="Luke against the sky" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
     </div>
     <div style="flex: 1;">
         <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="luke-richardson" data-version="v1">
