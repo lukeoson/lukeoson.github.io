@@ -162,7 +162,8 @@ uptime and customer satisfaction. Despite the significant design work we had don
 
 ### Hardware & System Stack at WeWork
 
-Managed Sites: 750 Branch locations spanning AMER, EMEA, APAC.
+**Managed Sites: *750 Branch locations spanning AMER, EMEA, APAC.***
+
 *Continuous refresh activity bringing all locations to Juniper Full Stack. Design, Build, Operate.*
 
 - Core - Juniper SRX NGFW Routing & Security.
