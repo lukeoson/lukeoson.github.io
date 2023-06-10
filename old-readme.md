@@ -5,18 +5,22 @@
 Central London - exWeWork - Network Architect, Automation, Systems Engineering, Product & Team Management, and such.   
 [LinkedIn](https://www.linkedin.com/in/luke-richardson/) [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)
 
-> With a background managing network teams & systems engineering, I am prepared for, and interested in, a variety of senior career tracts that span systems engineering, network architecture, product and team management, and sales engineering. Above all, I want to make impactful contributions to drive business success. Company first, role and position second.
+> Luke Richardson, a seasoned network engineer, has proven adept at crafting integrative solutions, automating workflows, and understanding the sales engineering landscape. His expertise extends to an intuitive grasp of constraints and business logic, making him proficient at aligning technical solutions with business objectives. Luke is primed for strategic roles where he can drive innovation, shape future technology directions, and facilitate the intersection of technical complexity with customer-centric sales strategies.
 
-### Recent Responsibilities at WeWork
+### Recent Responsibilities 
 
+- Product owner of IPFabric. An Automated Network Assurance Platform.  
+- Product owner of Nautobot & Netbox. Source of Truth & Orchestration.
+- Administration of SplunkCloud. Visualizations. SOX compliance auditing.
+- Research of emerging technologies at WeWork. NaaS. Automation.
+- Network upgrades & remediation. Mostly Junos & Cisco. Some Forti & Palo.
+- Stakeholder of transition to outsourced Network Operations and Franchise.
+- SSO Okta administration and RBAC provisioning.
 - Led team of 5 Operations Engineers.
-- Product owner of IPFabric, Nautobot & Netbox.
-- Admin of SplunkCloud, Okta SSO, AWS, RBAC provisioning.
-- R&D of Network Architecture & pipeline automation tools for IaC, CI/CD.
-- Managed Network to Juniper Mist full stack global refresh.
-- Managed transition to outsourced Network Operations and Franchise.
-- Data Centre transformation project to consolidate AMER, EMEA, APAC.
-- Management and ownership of On-Prem & AWS Linux Server Infrastructure.
+- Systems design & implementation with automation consultant management. 
+- Focus on revenue generation & margin maximization of Technology Services. 
+- 750 Branch locations, 4 Data Centers spanning AMER, EMEA, APAC.
+- Management of both On-Prem & AWS Server Infrastructure.  
 
 
 ### Certifications
@@ -34,6 +38,20 @@ Central London - exWeWork - Network Architect, Automation, Systems Engineering, 
             <tr><td>Okta Professional.</td></tr>
         </table>
     </div>
+    <div>
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="19d8864b-b0c0-4c51-ba1c-f5c88c3dd36b" data-share-badge-host="https://www.credly.com"></div>
+        <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    </div>
+    <div>
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="134375b2-096b-4334-9df8-7b58295581c2" data-share-badge-host="https://www.credly.com"></div>
+        <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    </div>
+    <div>
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="21619933-9e5d-44fd-96d3-ee5ae82815f0" data-share-badge-host="https://www.credly.com"></div>
+        <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    </div>
+</div>
+
 
 ### Education 
 
@@ -55,7 +73,7 @@ Central London - exWeWork - Network Architect, Automation, Systems Engineering, 
 
 ***
 
-🎉 Thank you. Please don't hesitate to book time with my [Calendly](https://calendly.com/lukeos). 
+🎉 Thank you. Please don't hesitate to book time with my [Calendly](https://calendly.com/lukeos) or visit [Hello.LukeOS](https://hello.lukeos.io/).  
 
 ***
 
@@ -82,16 +100,6 @@ Central London - exWeWork - Network Architect, Automation, Systems Engineering, 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
-***
-
-### Business Impact Statements - Situation, Task, Action, Result.
-
-I **contribute** by honing design simplicity and enhancing automated pipelines, seamlessly integrating network infrastructure with associated systems, all to drive maximal efficiency. Constantly iterating, I prioritise an improved customer experience and elevate business value.
-
-S: At WeWork I had exposure to engineering pain points as a NOC manager.
-T: I proactively set out to simplify and streamline ticket resolution processes.
-A: I delivered simplified intuitive automations to reduce repetitive manual processes.
-R: WeWork was able to optimise technology services to improve margin and experience.
 ***
 
 Hobbies:
