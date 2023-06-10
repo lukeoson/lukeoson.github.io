@@ -245,7 +245,7 @@ I was fortunate to have ample travel opportunities at WeWork before and followin
 
 ***
 
-### Hobbies:
+### Hobbies
 
 - Rock Climbing. [North Wales Trad](https://www.ukclimbing.com/logbook/set.php?id=165). 
 - Mountaineering. Northern India & Nepal. 
@@ -258,7 +258,7 @@ I was fortunate to have ample travel opportunities at WeWork before and followin
 
 ***
 
-### Wonderful books from my 2023 readings so far:
+### Wonderful books from my 2023 readings so far
 
 <table>
   <tr>
