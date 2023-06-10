@@ -50,7 +50,7 @@ Central London - exWeWork - Network Architect, Automation, Systems Engineering, 
         <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
         <script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
     </td>
-    <td style="vertical-align: top; width: 73%; padding-top: 20px;">
+    <td style="vertical-align: top; width: 73%; padding-top: 27px;">
         <div style="display: flex; justify-content: space-between;">
             <div>
                 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cbf202b7-4bd0-49f6-8edc-265dee4c64bd" data-share-badge-host="https://www.credly.com"></div>
