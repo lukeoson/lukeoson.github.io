@@ -57,15 +57,15 @@ Central London - exWeWork - Network Architect, Automation, Systems Engineering, 
                 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
             </div>
             <div>
-                <div data-iframe-width="140" data-iframe-height="270" data-share-badge-id="19d8864b-b0c0-4c51-ba1c-f5c88c3dd36b" data-share-badge-host="https://www.credly.com"></div>
+                <div data-iframe-width="140" data-iframe-height="273" data-share-badge-id="19d8864b-b0c0-4c51-ba1c-f5c88c3dd36b" data-share-badge-host="https://www.credly.com"></div>
                 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
             </div>
             <div>
-                <div data-iframe-width="140" data-iframe-height="270" data-share-badge-id="134375b2-096b-4334-9df8-7b58295581c2" data-share-badge-host="https://www.credly.com"></div>
+                <div data-iframe-width="140" data-iframe-height="275" data-share-badge-id="134375b2-096b-4334-9df8-7b58295581c2" data-share-badge-host="https://www.credly.com"></div>
                 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
             </div>
             <div>
-                <div data-iframe-width="140" data-iframe-height="270" data-share-badge-id="21619933-9e5d-44fd-96d3-ee5ae82815f0" data-share-badge-host="https://www.credly.com"></div>
+                <div data-iframe-width="140" data-iframe-height="280" data-share-badge-id="21619933-9e5d-44fd-96d3-ee5ae82815f0" data-share-badge-host="https://www.credly.com"></div>
                 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
             </div>
         </div>
