@@ -79,7 +79,7 @@ Central London - exWeWork - Network Architect, Automation, Systems Engineering, 
 Please don't hesitate to book time with my [Calendly](https://calendly.com/lukeos). 
 
 <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/lukeos?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/lukeos?hide_gdpr_banner=1" style="min-width:320px; width:100%; height:700px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
 
