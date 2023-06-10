@@ -211,9 +211,9 @@ uptime and customer satisfaction. Despite the significant design work we had don
 
 *Participant in Data Centre refresh & transformation project 2021-2022.*
 
-- Border - Juniper SRX4200.
+- Border - Juniper MX.
 - IPSEC - Juniper SRX4200. Tunnels to Branch.
-- Backbone - Juniper SRX4200. MegaPort Cross Connects.
+- Backbone - Juniper MX. MegaPort Cross Connects.
 - VPN - Palo Alto PA-3000 Series. Panorama Managed.
 - FW - Fortinet FG1100E. Forti Central Manager.
 - Access - Juniper QFX5100 Mist Managed.
