@@ -50,12 +50,8 @@ Central London - exWeWork - Network Architect, Automation, Systems Engineering, 
         <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
         <script src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
     </td>
-    <td style="vertical-align: top; width: 70%;">
+    <td style="vertical-align: top; width: 70%; padding-top: 20px;">
         <div style="display: flex; justify-content: space-between;">
-            <div>
-                <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cbf202b7-4bd0-49f6-8edc-265dee4c64bd" data-share-badge-host="https://www.credly.com"></div>
-                <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-            </div>
             <div>
                 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="19d8864b-b0c0-4c51-ba1c-f5c88c3dd36b" data-share-badge-host="https://www.credly.com"></div>
                 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
@@ -72,6 +68,7 @@ Central London - exWeWork - Network Architect, Automation, Systems Engineering, 
     </td>
   </tr>
 </table>
+
 
 ***
 
