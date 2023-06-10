@@ -218,7 +218,9 @@ I was fortunate to have ample travel opportunities at WeWork before and followin
 
 ### My Face
 
-insert profile pic
+![Luke against the sky](luke bg sky.png)
+
+***
 
 ### Wonderful books from my 2023 readings so far:
 
