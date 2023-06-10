@@ -183,7 +183,7 @@ uptime and customer satisfaction. Despite the significant design work we had don
 
 ***
 
-### Tools Used regularly at WeWork to Build & Operate the Network & Systems.
+### Tools used regularly at WeWork to Build & Operate the Network & Systems.
 
 - CLI: Mostly Junos & IOS. Some FortiOS & PaloOS.
 - API: Rest, JSON & XML RPC.
