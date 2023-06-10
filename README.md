@@ -53,17 +53,17 @@ Please don't hesitate to book time with my [Calendly](https://calendly.com/lukeo
 
 I **contribute** by honing design simplicity and enhancing automated pipelines, seamlessly integrating network infrastructure with associated systems, all to drive maximal efficiency. Constantly iterating, I prioritise an improved customer experience and elevate business value.
 
-S: At WeWork I had exposure to engineering pain points as a NOC manager.
-T: I proactively set out to simplify and streamline ticket resolution processes.
-A: I delivered simplified intuitive automations to reduce repetitive manual processes.
-R: WeWork was able to optimise technology services to improve margin and experience.
+- S: At WeWork I had exposure to engineering pain points as a NOC manager.
+- T: I proactively set out to simplify and streamline ticket resolution processes.
+- A: I delivered simplified intuitive automations to reduce repetitive manual processes.
+- R: WeWork was able to optimise technology services to improve margin and experience.
 
 I uphold **financial prudence** by identifying savings and efficiencies, meticulously defining and adhering to budgets, thereby sustaining and improving network systems with an unyielding focus on driving exceptional business value.
 
-S: WeWork ran a complex multi vendor network stack that was expensive to support.
-T: Participate in the design of a cost optimised move to Juniper full stack.
-A: I achieved economies of scale in the delivery and build of a global network refresh project. 
-R: Deep simplifications drove 25% cost reduction in new building network infrastructure.
+- S: WeWork ran a complex multi vendor network stack that was expensive to support.
+- T: Participate in the design of a cost optimised move to Juniper full stack.
+- A: I achieved economies of scale in the delivery and build of a global network refresh project. 
+- R: Deep simplifications drove 25% cost reduction in new building network infrastructure.
 
 I harness my skills in **people management** to cultivate an adaptive, agile work climate that ignites excellence, promotes seamless collaboration, and caters to a diverse range of engineering and business roles, all while championing knowledge transfer and facilitating effortless business liaison.
 
