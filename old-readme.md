@@ -88,13 +88,6 @@ Central London - exWeWork - Network Architect, Automation, Systems Engineering, 
         <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="luke-richardson" data-version="v1">
             <a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/luke-richardson?trk=profile-badge">Luke Richardson</a>
         </div>
-    </div>
-    <div style="flex-grow: 1; margin-left: 10px;">
-        <a href="https://hello.lukeos.io/" target="_blank" style="display: block; margin-bottom: 10px; text-align: center;">Visit lukeos.io for more detail. Or see the embed below.</a>
-        <div style="position: relative; padding-bottom: calc(56.25% - 24px); height: 0; padding-top: 25px;">
-            <iframe src="https://hello.lukeos.io/" style="border: none; position: absolute; top: 0; left: 0; width: 100%; height: 90%;" frameborder="0"></iframe>
-        </div>
-    </div>
 </div>
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
