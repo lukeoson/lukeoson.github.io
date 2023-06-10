@@ -45,7 +45,7 @@ Please don't hesitate to book time with my [Calendly](https://calendly.com/lukeo
 
 ***
 
-### Business Impact Statements - Situation, Task, Action, Result.
+### Business Impact Statements - *Situation, Task, Action, Result.*
 
 I **contribute** by honing design simplicity and enhancing automated pipelines, seamlessly integrating network infrastructure with associated systems, all to drive maximal efficiency. Constantly iterating, I prioritise an improved customer experience and elevate business value.
 
@@ -63,59 +63,59 @@ I uphold **financial prudence** by identifying savings and efficiencies, meticul
 
 I harness my skills in **people management** to cultivate an adaptive, agile work climate that ignites excellence, promotes seamless collaboration, and caters to a diverse range of engineering and business roles, all while championing knowledge transfer and facilitating effortless business liaison.
 
-S: My time at WeWork was punctuated by multiple restructures and headcount reductions. 
-T: Build a high performing team that did much more with dramatically less resources.
-A: I drove the adoption of an outsourced NOC that freed up internal specialists to thrive. 
-R: Improved culture with space to breathe and invest in strategic vision and key initiatives.
+- S: My time at WeWork was punctuated by multiple restructures and headcount reductions. 
+- T: Build a high performing team that did much more with dramatically less resources.
+- A: I drove the adoption of an outsourced NOC that freed up internal specialists to thrive. 
+- R: Improved culture with space to breathe and invest in strategic vision and key initiatives.
 
 I am **accountable** for influencing solution design towards secure and automated simplicity, executing low-level designs, facilitating knowledge transition into operations, providing expert guidance, leading technical projects, and resolving incidents to fortify operational platforms and services.
 
-S: WeWork lacked an end to end solution for assuring asset management and network visibility. 
-T: Build a best in class integrated pipeline of monitoring and visibility tools, systems, platforms. 
-A: I achieved approval for the procurement of IPFabric with a value driven business case.
-R: Accurately map intent to configuration drift to improve network outcomes for Members and provide valuable insights to InfoSec.
+- S: WeWork lacked an end to end solution for assuring asset management and network visibility. 
+- T: Build a best in class integrated pipeline of monitoring and visibility tools, systems, platforms. 
+- A: I achieved approval for the procurement of IPFabric with a value driven business case.
+- R: Accurately map intent to configuration drift to improve network outcomes for Members and provide valuable insights to InfoSec.
 
 I leverage my **knowledge, skills, and experience** to design, build, and operate simplified and robust network systems. My passion for researching emerging technology trends and collaboration with stakeholders cultivates relationships that drive business value by scoping and quoting to optimise utilisation and scalability.
 
-S: WeWork operated an oversized unscalable network core and a poor wireless environment. 
-T: Improve Member NPS by reimagining the wireless environment.
-A: I participated in the adoption of a Juniper Mist Wifi design to improve the experience.
-R: 30% reduction in reported poor wireless experience and improved NPS.
+- S: WeWork operated an oversized unscalable network core and a poor wireless environment. 
+- T: Improve Member NPS by reimagining the wireless environment.
+- A: I participated in the adoption of a Juniper Mist Wifi design to improve the experience.
+- R: 30% reduction in reported poor wireless experience and improved NPS.
 
 I **problem solve** to nurture continuous improvement that rewards agility and nimbleness to enable the tuning and rethinking of processes, all while ensuring an exceptional customer experience.
 
-S: WeWork lacked a proper CI/CD pipeline to deliver network services.
-T: Create integrations delivering seamless and elegant automations for revenue generation. 
-A: I designed IPFabric & Nautobot as orchestration platforms to deliver high margin services. 
-R: The predicted 50% reduction in cost was achieved in Dev. And approved for global roll out.
+- S: WeWork lacked a proper CI/CD pipeline to deliver network services.
+- T: Create integrations delivering seamless and elegant automations for revenue generation. 
+- A: I designed IPFabric & Nautobot as orchestration platforms to deliver high margin services. 
+- R: The predicted 50% reduction in cost was achieved in Dev. And approved for global roll out.
 
 I adopt a merit-based approach to **decision-making**, collaborating with stakeholders to garner consensus, and effective lobbying to advocate for technical excellence and business value that balances visionary thinking with dynamic risk awareness.
 
-S: WeWork lacked a clearly defined roadmap toward an automation first DevOps mindset. 
-T: Pursue an end to end solution involving multiple departments embracing change.
-A: Invoke compassion and compromise to empower individuals to meet the end vision. 
-R: Vastly improved inter departmental cooperation and more agility in making change.
+- S: WeWork lacked a clearly defined roadmap toward an automation first DevOps mindset. 
+- T: Pursue an end to end solution involving multiple departments embracing change.
+- A: Invoke compassion and compromise to empower individuals to meet the end vision. 
+- R: Vastly improved inter departmental cooperation and more agility in making change.
 
 I meticulously **plan and organise** projects, utilising a priority-based approach that considers urgency and business context. I adapt seamlessly to fast-paced, chaotic workloads while remaining focused on commercial planning to prevent cost drift and encourage a deep appreciation for change control, compliance, and the effective incremental delivery of pipeline projects.
 
-S: The Architecture team at WeWork were unexpectedly given responsibility for SplunkCloud. 
-T: Urgently plan and organise the transition to rebuild the Observability & Logging Platform. 
-A: Engaged experts to build Data Centre forwarders and ingest all Syslog for analysis.
-R: Dramatic improvement in our ability to diagnose and remediate network issues and remain security compliant.
+- S: The Architecture team at WeWork were unexpectedly given responsibility for SplunkCloud. 
+- T: Urgently plan and organise the transition to rebuild the Observability & Logging Platform. 
+- A: Engaged experts to build Data Centre forwarders and ingest all Syslog for analysis.
+- R: Dramatic improvement in our ability to diagnose and remediate network issues and remain security compliant.
 
 I recognise the importance of **influence and relationships** in inspiring a cohesive strategy, unleashing excellence through a cooperative culture that values external insights to achieve best practices and maintain competitiveness. I embrace constructive feedback in peer reviews, mentoring, and team building, relentlessly pursuing technical perfection, and lead by example as teams adapt, align, and compromise to optimise collective strength.
 
-S: WeWork lacked a spirit of team and global cooperation that was damaging to productivity.
-T: Transition to a model that empowers local tactics while preserving global strategy.
-A: I advocated for the adoption of continuous feedback and cross disciplinary team building.
-R: I was able to nurture support for significant investment and energy from across the business.
+- S: WeWork lacked a spirit of team and global cooperation that was damaging to productivity.
+- T: Transition to a model that empowers local tactics while preserving global strategy.
+- A: I advocated for the adoption of continuous feedback and cross disciplinary team building.
+- R: I was able to nurture support for significant investment and energy from across the business.
 
 I adopt a **communication** strategy that first seeks to understand, then seeks to be understood, embodying a confident and articulate approach that proactively surfaces pertinent topics and ensures wide dissemination. This strategy is codified in a robust and regularly reviewed knowledge base that encourages feedback and revision. I embrace a straightforward business value approach when presenting technical ideas to stakeholders, striving to communicate with clarity and precision.
 
-S: WeWork’s documentation was sporadic and partial. Its departments were siloed.
-T: A proactive roadshow to reach out to all teams and empathetically hear their pain points. 
-A: I sought perspectives of multiple departments to improve cross function participation. 
-R: A cultural shift to a Knowledge Base that inspired more cooperation and skill transfer.
+- S: WeWork’s documentation was sporadic and partial. Its departments were siloed.
+- T: A proactive roadshow to reach out to all teams and empathetically hear their pain points. 
+- A: I sought perspectives of multiple departments to improve cross function participation. 
+- R: A cultural shift to a Knowledge Base that inspired more cooperation and skill transfer.
 
 ***
 
