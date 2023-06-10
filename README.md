@@ -20,6 +20,7 @@ Central London - exWeWork - Network Architect, Automation, Systems Engineering, 
 
 
 ### Certifications
+
 <div style="display: flex; justify-content: space-between;">
     <div>
         <table>
