@@ -42,7 +42,7 @@ Please don't hesitate to book time with my [Calendly](https://calendly.com/lukeo
 
 ### My Face
 
-<img src="luke-bg-sky.png" alt="Luke against the sky" style="width: 50%; height: auto;">
+<img src="luke-bg-sky.png" alt="Luke against the sky" style="width: 35%; height: auto;">
 
 ***
 
