@@ -4,9 +4,9 @@
 
 ---
 
-- [x] Passionate about all things Network Automation.
-- [x] Determined to deliver robust and scalable Infrastructure as Code.
-- [x] Adept at working with cross-functional teams to deliver complex projects.
+* Passionate about all things Network Automation.
+* Determined to deliver robust and scalable Infrastructure as Code.
+* Adept at working with cross-functional teams to deliver complex projects.
 
 ---
 
