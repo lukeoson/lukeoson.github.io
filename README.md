@@ -1,8 +1,14 @@
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/lukeos', text: 'Schedule time with Luke', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
+<!-- Calendly badge widget end -->
+
 [__Luke Richardson__](https://www.linkedin.com/in/luke-richardson/) is currently employed as Network Architect in London.  
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.9474921642217!2d-0.13534059999999998!3d51.519386399999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b25e0f0f0dd%3A0xffc06a936b93fee5!2sLukeOS%20Labs%20Ltd!5e0!3m2!1sen!2s!4v1624557160453!5m2!1sen!2s" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.9474921642217!2d-0.13534059999999998!3d51.519386399999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b25e0f0f0dd%3A0xffc06a936b93fee5!2sLukeOS%20Labs%20Ltd!5e0!3m2!1sen!2s!4v1624557160453!5m2!1sen!2s" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>  
 
----
+***
 
 * Passionate about all things Network Automation.
 * Determined to deliver robust and scalable Infrastructure as Code.
@@ -10,22 +16,17 @@
 
 ---
 
-![luke-face](Screenshot 2024-02-12 at 19.50.38.png){ width=195px align=right } 
-Network Architect  
-[Hello@Lukeoson.com](mailto:Luke.richardson@lloret.co.uk)      
-[Linkedin](https://www.linkedin.com/in/luke-richardson/)   
-[+447376209455](tel:+447376209455)    
-[lukeoson](https://github.com/lukeoson/lukeoson.github.io)   
-[Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)  
-Please don't hesitate to book time with my [Calendly](https://calendly.com/meet-luke-richardson). 
+<img src="Screenshot 2024-02-12 at 19.50.38.png" width="195" align="right" alt="luke-face" />
+
+Network Architect<br>
+<a href="mailto:Luke.richardson@lloret.co.uk">Hello@Lukeoson.com</a><br>
+<a href="https://www.linkedin.com/in/luke-richardson/">Linkedin</a><br>
+<a href="tel:+447376209455">+447376209455</a><br>
+<a href="https://github.com/lukeoson/lukeoson.github.io">lukeoson</a><br>
+<a href="https://www.credly.com/users/luke-richardson.dca3c027">Acclaim</a><br>
+Please don't hesitate to book time with my <a href="https://calendly.com/meet-luke-richardson">Calendly</a>.
 
 ---
-
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/lukeos', text: 'Schedule time with Luke', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
-<!-- Calendly badge widget end -->
 
 ## Employment History 
 
