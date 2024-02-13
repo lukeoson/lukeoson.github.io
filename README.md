@@ -2,20 +2,20 @@
 
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.9474921642217!2d-0.13534059999999998!3d51.519386399999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b25e0f0f0dd%3A0xffc06a936b93fee5!2sLukeOS%20Labs%20Ltd!5e0!3m2!1sen!2s!4v1624557160453!5m2!1sen!2s" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-    - [x] Passionate about all things Network Automation.
-    - [x] Determined to deliver robust and scalable Infrastructure as Code.
-    - [x] Adept at working with cross-functional teams to deliver complex projects.
+- [x] Passionate about all things Network Automation.
+- [x] Determined to deliver robust and scalable Infrastructure as Code.
+- [x] Adept at working with cross-functional teams to deliver complex projects.
 
 ---
 
-    ![luke-face](../assets/images/luke-face.jpeg){ width=195px align=right } 
-    Network Architect  
-    [Hello@Lukeoson.com](mailto:Luke.richardson@lloret.co.uk)      
-    [Linkedin](https://www.linkedin.com/in/luke-richardson/)   
-    [+447376209455](tel:+447376209455)    
-    [lukeoson](https://github.com/lukeoson/lukeoson.github.io)   
-    [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)  
-    Please don't hesitate to book time with my [Calendly](https://calendly.com/meet-luke-richardson). 
+![luke-face](../assets/images/luke-face.jpeg){ width=195px align=right } 
+Network Architect  
+[Hello@Lukeoson.com](mailto:Luke.richardson@lloret.co.uk)      
+[Linkedin](https://www.linkedin.com/in/luke-richardson/)   
+[+447376209455](tel:+447376209455)    
+[lukeoson](https://github.com/lukeoson/lukeoson.github.io)   
+[Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)  
+Please don't hesitate to book time with my [Calendly](https://calendly.com/meet-luke-richardson). 
 
 ---
 
