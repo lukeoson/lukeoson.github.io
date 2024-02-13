@@ -10,7 +10,7 @@
 
 ---
 
-![luke-face](../assets/images/luke-face.jpeg){ width=195px align=right } 
+![luke-face](Screenshot 2024-02-12 at 19.50.38.png){ width=195px align=right } 
 Network Architect  
 [Hello@Lukeoson.com](mailto:Luke.richardson@lloret.co.uk)      
 [Linkedin](https://www.linkedin.com/in/luke-richardson/)   
@@ -140,58 +140,57 @@ Multiple others not stored in Credly :done, 2020, 2025
 
 __Lloret Control Systems__
 
-- [x] Greenfield Architecture of Cisco, Meraki, Aruba, & Allied Telesis. 
+Greenfield Architecture of Cisco, Meraki, Aruba, & Allied Telesis. 
 
 _At Lloret, i'm regretfully unfulfilled with the industry segment. I'm looking for something more inspiring that embraces the paradigm shift toward Infrastructure as Code._  
     
-        > Network Design mapping Client Specifications to constraints.   
-        > Requirements delivered in strict adherence to defined budget.    
-        > Managed multitudinous stakeholders expectations.   
-        > Built a frame of reference for future project pipelines.      
-        > Delivered in strict adherence to defined timeline.  
+S : Network Design mapping Client Specifications to constraints.   
+M : Requirements delivered in strict adherence to defined budget.    
+A : Managed multitudinous stakeholders expectations.   
+R : Built a frame of reference for future project pipelines.      
+T : Delivered in strict adherence to defined timeline.  
 
----
 __WeWork__
 
-- [x] Key contributor to the global Network Architecture.
+Key contributor to the global Network Architecture.
 
 _Circa 750 Branches spanning >100 Countries with x4 Data Centres in x3 Continents._
 
-S > Transition the Global Branch Network to Juniper Full Stack.   
-M > Radically reduced outages & increased network performance.   
-A > Accommodations for budget & logistics constraints.  
-R > Enabled the Golden Config for global standardisation.  
-T > Completed refresh of First Generation Branches by 2023.
+S : Transition the Global Branch Network to Juniper Full Stack.   
+M : Radically reduced outages & increased network performance.   
+A : Accommodations for budget & logistics constraints.  
+R : Enabled the Golden Config for global standardisation.  
+T : Completed refresh of First Generation Branches by 2023.
 
-- [x] Key contributor to the global Network Automation & Orchestration Strategy.
+Key contributor to the global Network Automation & Orchestration Strategy.
 
 _Much nuance here, lessons learnt and all that jazz._
 
-S > Incorporate the Branch Network into a code pipeline.   
-M > Reduce the time to deploy a change from days to minutes.      
-A > Built block by block. Source of Truth & Assurance first.   
-R > Radically reduce team toil & increased Member MPS.   
-T > Complete the transition to Infrastructure as Code by 2023.   
+S : Incorporate the Branch Network into a code pipeline.   
+M : Reduce the time to deploy a change from days to minutes.      
+A : Built block by block. Source of Truth & Assurance first.   
+R : Radically reduce team toil & increased Member MPS.   
+T : Complete the transition to Infrastructure as Code by 2023.   
 
-- [x] Owner & Keeper of Nautobot & Netbox Sources of Truth & IPFabric Network Assurance.
+Owner & Keeper of Nautobot & Netbox Sources of Truth & IPFabric Network Assurance.
 
 _[Network to Code](https://networktocode.com) & [IPFabric](https://ipfabric.com) are wonderful companies - I joyfully advocate for!_ 
 
-S > Built Nautobot in AWS & IPFabric as distributed On-Premise.     
-M > Accurate Database of >10,000 network devices. No Diff.        
-A > Cross Functional collaboration with DevOps & Security.  
-R > Ensure we have viable Sources of Truth both actual & desired.    
-T > Complete the transition to Infrastructure as Code by 2023.  
+S : Built Nautobot in AWS & IPFabric as distributed On-Premise.     
+M : Accurate Database of >10,000 network devices. No Diff.        
+A : Cross Functional collaboration with DevOps & Security.  
+R : Ensure we have viable Sources of Truth both actual & desired.    
+T : Complete the transition to Infrastructure as Code by 2023.  
 
-- [x] Administrative duties of Splunk Cloud Observability & Okta SSO.
+Administrative duties of Splunk Cloud Observability & Okta SSO.
 
 _An unexpected void following Layoffs - I was eager to help!_ 
 
-        S > Be the gateway for SSO configuration & access in Network Systems.  
-        M > Configuration & Access verified by Cyber Compliance Team.      
-        A > Training & Documentation for Okta & Splunk.  
-        R > Ensured the Network Team had the correct access to the correct systems.    
-        T > Completed the transition to SSO Okta for capable Systems by 2023.
+S : Be the gateway for SSO configuration & access in Network Systems.  
+M : Configuration & Access verified by Cyber Compliance Team.      
+A : Training & Documentation for Okta & Splunk.  
+R : Ensured the Network Team had the correct access to the correct systems.    
+T : Completed the transition to SSO Okta for capable Systems by 2023.
 
 ## Hobbies
 
@@ -238,13 +237,13 @@ _Brandon Ross, Network Architecture Director, WeWork_
 
 ***Categorize Luke's proficiency across each impact driver:***
 
-- [x] *Luke Takes Actions & Delivers `>>>>>>>>>>>>>>`* :material-battery-charging-90: **Core Strength**
-- [x] *Luke Adapts Seamlessly ``>>>>>>>>>>>>>>>>>>`* :material-battery-charging-90: **Core Strength**
-- [x] *Luke Thinks Critically `>>>>>>>>>>>>>>>>>>>>>>>>>>`* :material-battery-charging-100: **Exceptional Skill**
-- [x] *Luke Communicates Effectively `>>>>>>>>>>>>>`* :material-battery-charging-90: **Core Strength**
-- [x] *Luke Builds Relationships `>>>>>>>>>>>>>>>>>>`* :material-battery-charging-90: **Core Strength**
-- [x] *Luke's Subject Matter Expertise `>>>>>>>>>>>>>>>>>`* :material-battery-charging-100: **Exceptional Skill**
-- [x] *Rate Luke's business impact `>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>`* :material-battery-charging-100: **High** 
+- [x] *Luke Takes Actions & Delivers `>>>>>>>>>>>>>>`* **Core Strength**
+- [x] *Luke Adapts Seamlessly `>>>>>>>>>>>>>>>>>>`* **Core Strength**
+- [x] *Luke Thinks Critically `>>>>>>>>>>>>>>>>>>>>>>>>>>`* **Exceptional Skill**
+- [x] *Luke Communicates Effectively `>>>>>>>>>>>>>`* **Core Strength**
+- [x] *Luke Builds Relationships `>>>>>>>>>>>>>>>>>>`* **Core Strength**
+- [x] *Luke's Subject Matter Expertise `>>>>>>>>>>>>>>>>>`* **Exceptional Skill**
+- [x] *Rate Luke's business impact `>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>`* **High** 
 
 ---
 
