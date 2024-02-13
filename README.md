@@ -31,8 +31,6 @@ Please don't hesitate to book time with my [Calendly](https://calendly.com/meet-
 
 [__Luke's Employment__](https://www.credly.com/users/luke-richardson.dca3c027) in the Technology Industry includes WeWork & Dimension Data.  
 
----
-
 ```mermaid
     gantt
     dateFormat  YYYY
@@ -66,15 +64,11 @@ Please don't hesitate to book time with my [Calendly](https://calendly.com/meet-
 
 [__Luke's Education__](https://www.credly.com/users/luke-richardson.dca3c027) includes a BA in Politics prior to his various Tech Industry roles.  
 
----
-
 | Where | When | What | Why |
 | :--- | :--- | :--- | :--- |
 | [YouTube](https://www.youtube.com/channel/UCRIOI_3REG9zIDM0Fp9Xiyg) | 2008 - 2023 | > 10,000 hours | Life long learner
 | [University of London](https://www.qmul.ac.uk/) | 2005 - 2008 | Politics BA - 2:1 | I should have known better 
 | [Bishop Stopford](https://www.bishopstopford.com/) | 1997 - 2005 | x4 A-levels Grade A | The year they let you retake exams!
-
----
 
 This chart shows a timeline of Luke's Professional Certifications and upcoming expiry.
 
@@ -138,13 +132,11 @@ This chart shows a timeline of Luke's Professional Certifications and upcoming e
     Multiple others not stored in Credly :done, 2020, 2025
 ```
 
-    - [Verify via Credly](https://www.credly.com/users/luke-richardson.dca3c027) and check [Luke's Blog](../blog/index.md) for current learning objectives.
+- [Verify via Credly](https://www.credly.com/users/luke-richardson.dca3c027) and check [Luke's Blog](../blog/index.md) for current learning objectives.
 
 ## Carreer Achievements
 
 [__Luke's Career__](https://www.credly.com/users/luke-richardson.dca3c027) story is of accending rigour & complexity (1) [Smartly Summarised](https://en.wikipedia.org/wiki/SMART_criteria)
-
----
 
 __Lloret Control Systems__
 
