@@ -222,7 +222,7 @@ Luke's life tree looks like this:
 
 [__Luke's 2022 WeWork Performance Review__]() 
 
-_If you would like a reference, [Brandon Ross](https://www.linkedin.com/in/brandon-ross-a00154/) would be a useful starting point.
+_If you would like a reference, [Brandon Ross](https://www.linkedin.com/in/brandon-ross-a00154/) would be a useful starting point._
 
 ***Describe how Luke has successfully delivered business impact:***
 
