@@ -72,7 +72,7 @@ Please don't hesitate to book time with my [Calendly](https://calendly.com/meet-
 
 This chart shows a timeline of Luke's Professional Certifications and upcoming expiry.
 
-```mermaid
+```
 gantt
 dateFormat  YYYY
 title Luke's Learning Path 
@@ -198,8 +198,8 @@ T : Completed the transition to SSO Okta for capable Systems by 2023.
 
 _Alas, time flies, he is now 38 years old and primarily focused on his career._
 
-- [x] Rock Climbing. [North Wales Trad](https://www.ukclimbing.com/logbook/set.php?id=165). 
-- [x] Mountaineering. Northern India & Nepal. 
+Rock Climbing. [North Wales Trad](https://www.ukclimbing.com/logbook/set.php?id=165). 
+Mountaineering. Northern India & Nepal. 
 
 Luke's life tree looks like this:
 
@@ -237,13 +237,13 @@ _Brandon Ross, Network Architecture Director, WeWork_
 
 ***Categorize Luke's proficiency across each impact driver:***
 
-- [x] *Luke Takes Actions & Delivers `>>>>>>>>>>>>>>`* **Core Strength**
-- [x] *Luke Adapts Seamlessly `>>>>>>>>>>>>>>>>>>`* **Core Strength**
-- [x] *Luke Thinks Critically `>>>>>>>>>>>>>>>>>>>>>>>>>>`* **Exceptional Skill**
-- [x] *Luke Communicates Effectively `>>>>>>>>>>>>>`* **Core Strength**
-- [x] *Luke Builds Relationships `>>>>>>>>>>>>>>>>>>`* **Core Strength**
-- [x] *Luke's Subject Matter Expertise `>>>>>>>>>>>>>>>>>`* **Exceptional Skill**
-- [x] *Rate Luke's business impact `>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>`* **High** 
+*Luke Takes Actions & Delivers `>>>>>>>>>>>>>>`* **Core Strength**
+*Luke Adapts Seamlessly `>>>>>>>>>>>>>>>>>>`* **Core Strength**
+*Luke Thinks Critically `>>>>>>>>>>>>>>>>>>>>>>>>>>`* **Exceptional Skill**
+*Luke Communicates Effectively `>>>>>>>>>>>>>`* **Core Strength**
+*Luke Builds Relationships `>>>>>>>>>>>>>>>>>>`* **Core Strength**
+*Luke's Subject Matter Expertise `>>>>>>>>>>>>>>>>>`* **Exceptional Skill**
+*Rate Luke's business impact `>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>`* **High** 
 
 ---
 
