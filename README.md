@@ -72,7 +72,7 @@ Please don't hesitate to book time with my [Calendly](https://calendly.com/meet-
 
 This chart shows a timeline of Luke's Professional Certifications and upcoming expiry.
 
-```
+```mermaid
 gantt
 dateFormat  YYYY
 title Luke's Learning Path 
