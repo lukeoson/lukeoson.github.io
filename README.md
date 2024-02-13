@@ -33,7 +33,7 @@ Please don't hesitate to book time with my <a href="https://calendly.com/meet-lu
 [__Luke's Employment__](https://www.credly.com/users/luke-richardson.dca3c027) in the Technology Industry includes WeWork & Dimension Data.  
 
 ```mermaid
-    gantt
+gantt
     dateFormat  YYYY
     title Luke's Career Path
 
