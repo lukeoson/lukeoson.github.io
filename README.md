@@ -238,13 +238,13 @@ _Brandon Ross, Network Architecture Director, WeWork_
 
 ***Categorize Luke's proficiency across each impact driver:***
 
-*Luke Takes Actions & Delivers `>>>>>>>>>>>>>>`* **Core Strength**
-*Luke Adapts Seamlessly `>>>>>>>>>>>>>>>>>>`* **Core Strength**
-*Luke Thinks Critically `>>>>>>>>>>>>>>>>>>>>>>>>>>`* **Exceptional Skill**
-*Luke Communicates Effectively `>>>>>>>>>>>>>`* **Core Strength**
-*Luke Builds Relationships `>>>>>>>>>>>>>>>>>>`* **Core Strength**
-*Luke's Subject Matter Expertise `>>>>>>>>>>>>>>>>>`* **Exceptional Skill**
-*Rate Luke's business impact `>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>`* **High** 
+*Luke Takes Actions & Delivers `>>>>>>>>>>>>>>`* **Core Strength**  
+*Luke Adapts Seamlessly `>>>>>>>>>>>>>>>>>>`* **Core Strength**  
+*Luke Thinks Critically `>>>>>>>>>>>>>>>>>>>>>>>>>>`* **Exceptional Skill**  
+*Luke Communicates Effectively `>>>>>>>>>>>>>`* **Core Strength**  
+*Luke Builds Relationships `>>>>>>>>>>>>>>>>>>`* **Core Strength**  
+*Luke's Subject Matter Expertise `>>>>>>>>>>>>>>>>>`* **Exceptional Skill**  
+*Rate Luke's business impact `>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>`* **High**   
 
 ---
 
