@@ -50,9 +50,7 @@ Please don't hesitate to book time with my <a href="https://calendly.com/meet-lu
 | [University of London](https://www.qmul.ac.uk/) | 2005 - 2008 | Politics BA - 2:1 | I should have known better 
 | [Bishop Stopford](https://www.bishopstopford.com/) | 1997 - 2005 | x4 A-levels Grade A | The year they let you retake exams!
 
-This chart shows a timeline of Luke's Professional Certifications and upcoming expiry.
-
-* [Verify via Credly](https://www.credly.com/users/luke-richardson.dca3c027) and check [Luke's Blog](../blog/index.md) for current learning objectives.
+* [Verify Certifications with Credly](https://www.credly.com/users/luke-richardson.dca3c027) and check [Luke's Blog](https://lukeoson.com/blog) for current learning objectives.
 
 ## Carreer Achievements
 
