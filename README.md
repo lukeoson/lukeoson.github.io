@@ -32,27 +32,6 @@ Please don't hesitate to book time with my <a href="https://calendly.com/meet-lu
 
 [__Luke's Employment__](https://www.credly.com/users/luke-richardson.dca3c027) in the Technology Industry includes WeWork & Dimension Data.  
 
-```mermaid
-gantt
-    dateFormat  YYYY
-    title Luke's Career Path
-
-    section Dimension Data
-    Project Management & Network Engineer :done, 2012, 2017
-
-    section Redstone
-    Network Engineer :done, 2017, 2018
-
-    section Sabbatical
-    Peace & Quiet :done, 2018, 2019
-
-    section WeWork
-    Network Architect - Global :done, 2019, 2023
-
-    section Lloret Control Systems
-    Network Architect :active, 2023, 2025
-```
-
 | Where| When | What| Why
 | :-- | :-- | :-- | :-- |
 | Available for Hire | 2024 - :material-infinity: | Network Automation | Bring it all together
@@ -72,66 +51,6 @@ gantt
 | [Bishop Stopford](https://www.bishopstopford.com/) | 1997 - 2005 | x4 A-levels Grade A | The year they let you retake exams!
 
 This chart shows a timeline of Luke's Professional Certifications and upcoming expiry.
-
-```mermaid
-gantt
-dateFormat  YYYY
-title Luke's Learning Path 
-
-section You Tube 
-Stay Curious :active, 2019, 2025
-
-section CCNA 
-Cisco Route & Switch :done, 2019, 2022
-    
-section JNCIA-Junos 
-Juniper Networks Certified Associate - Junos :active, 2020, 2025
-
-section JNCIA-DevOps 
-Juniper Networks Certified Associate - DevOps :active, 2020, 2025
-
-section JNCIA-Secuirty 
-Juniper Networks Certified Associate - Security :active, 2020, 2025
-
-section JNCIA-Mist 
-Juniper Networks Certified Associate - Mist :active, 2020, 2025
-
-section Juniper Associate x 4 
-Juniper JNCIA x 4 :active, 2021, 2025 
-
-section JNCIS-DevOps 
-Juniper Networks Certified Specialist - DevOps :active, 2021, 2025 
-
-section JNCIS-ENT 
-Juniper Networks Certified Specialist - ENT :active, 2023, 2025 
-
-section JNCIS-Mist 
-Juniper Networks Certified Specialist - Mist :active, 2023, 2025 
-
-section Juniper Specialist x3 
-Juniper JNCIS x 3 :active, 2023, 2025 
-
-section Juniper Innovator
-Juniper Networks Innovator :done, 2023, 2024  
-
-section GitLab Associate 
-GitLab Certified Git Associate :active, 2021, 2025 
-
-section AWS Certified Cloud
-AWS Certified Cloud :active, 2021, 2025 
-
-section Okta Professional 
-Okta Certified Professional :done, 2021, 2024 
-
-section GitHub
-GitHub Foundations :active, 2023, 2025
-
-section Allied Telesis 
-Allied Telesis Professional ENT :active, 2023, 2025
-
-section Lost to Time
-Multiple others not stored in Credly :done, 2020, 2025
-```
 
 * [Verify via Credly](https://www.credly.com/users/luke-richardson.dca3c027) and check [Luke's Blog](../blog/index.md) for current learning objectives.
 
