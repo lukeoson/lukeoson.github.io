@@ -60,7 +60,7 @@ __Lloret Control Systems__
 
 Greenfield Architecture of Cisco, Meraki, Aruba, & Allied Telesis. 
 
-_At Lloret, i'm regretfully unfulfilled with the industry segment. I'm looking for something more inspiring that embraces the paradigm shift toward Infrastructure as Code._  
+_Lloret is a lovely company, but i'm regretfully unfulfilled with the industry segment. I'm looking for something more inspiring that embraces the paradigm shift toward Infrastructure as Code._  
     
 S : Network Design mapping Client Specifications to constraints.   
 M : Requirements delivered in strict adherence to defined budget.    
