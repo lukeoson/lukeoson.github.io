@@ -34,7 +34,7 @@ Please don't hesitate to book time with my <a href="https://calendly.com/meet-lu
 
 | Where| When | What| Why
 | :-- | :-- | :-- | :-- |
-| Available for Hire | 2024 - :material-infinity: | Network Automation | Bring it all together
+| Available for Hire | 2024 - ♾️ | Network Automation | Bring it all together
 | [Lloret](https://www.lloret.co.uk/) | 2023 - Present | Network Architect | Rediscover my Roots
 | [WeWork](https://www.wework.com/) | 2019 - 2023 | Network Architect - Global | Build Complex Systems at Scale
 | [Redstone](https://www.onnecgroup.com/) | 2017 - 2018 | Network Engineer & TPM | Prove Myself
@@ -129,7 +129,7 @@ Luke's life tree looks like this:
     │   └── Rock Climbing
     ├── Politics
     │   ├── Influential-People
-    │   └── Power-Structures # Non polarizing! Curiosity devoid of emotion. 
+    │   └── Power-Structures 
     └── Technology
         ├── Infrastructure as Code
         └── Network Engineering
@@ -161,7 +161,7 @@ _Brandon Ross, Network Architecture Director, WeWork_
 *Luke Communicates Effectively `>>>>>>>>>>>>>`* **Core Strength**  
 *Luke Builds Relationships `>>>>>>>>>>>>>>>>>>`* **Core Strength**  
 *Luke's Subject Matter Expertise `>>>>>>>>>>>>>>>>>`* **Exceptional Skill**  
-*Rate Luke's business impact `>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>`* **High**   
+*Rate Luke's business impact `>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>`* **High**   
 
 ---
 
