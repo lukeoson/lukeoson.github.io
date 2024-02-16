@@ -116,7 +116,7 @@ T : Completed the transition to SSO Okta for capable Systems by 2023.
 
 _Alas, time flies, he is now 38 years old and primarily focused on his career._
 
-Rock Climbing. [North Wales Trad](https://www.ukclimbing.com/logbook/set.php?id=165). 
+Rock Climbing. [North Wales Trad](https://www.ukclimbing.com/logbook/set.php?id=165).   
 Mountaineering. Northern India & Nepal. 
 
 Luke's life tree looks like this:
