@@ -54,7 +54,7 @@ Please don't hesitate to book time with my <a href="https://calendly.com/meet-lu
 
 ## Carreer Achievements
 
-[__Luke's Career__](https://www.credly.com/users/luke-richardson.dca3c027) story is of accending rigour & complexity (1) [Smartly Summarised](https://en.wikipedia.org/wiki/SMART_criteria)
+[__Luke's Career__](https://www.credly.com/users/luke-richardson.dca3c027) story is of accending rigour & complexity.  [Smartly Summarised](https://en.wikipedia.org/wiki/SMART_criteria)
 
 __Lloret Control Systems__
 
