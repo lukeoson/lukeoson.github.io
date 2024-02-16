@@ -46,7 +46,7 @@ Please don't hesitate to book time with my <a href="https://calendly.com/meet-lu
 
 | Where | When | What | Why |
 | :--- | :--- | :--- | :--- |
-| [YouTube](https://www.youtube.com/channel/UCRIOI_3REG9zIDM0Fp9Xiyg) | 2008 - 2023 | > 10,000 hours | Life long learner
+| [YouTube](https://www.youtube.com/channel/UCRIOI_3REG9zIDM0Fp9Xiyg) | 2008 - ♾️ | > 10,000 hours | Life long learner
 | [University of London](https://www.qmul.ac.uk/) | 2005 - 2008 | Politics BA - 2:1 | I should have known better 
 | [Bishop Stopford](https://www.bishopstopford.com/) | 1997 - 2005 | x4 A-levels Grade A | The year they let you retake exams!
 
