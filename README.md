@@ -34,7 +34,7 @@ Please don't hesitate to book time with my <a href="https://calendly.com/meet-lu
 
 | Where| When | What| Why
 | :-- | :-- | :-- | :-- |
-| Available for Hire | 2024 - :material-infinity: | Network Automation | Bring it all together
+| Available for Hire | 2024 - ♾️ | Network Automation | Bring it all together
 | [Lloret](https://www.lloret.co.uk/) | 2023 - Present | Network Architect | Rediscover my Roots
 | [WeWork](https://www.wework.com/) | 2019 - 2023 | Network Architect - Global | Build Complex Systems at Scale
 | [Redstone](https://www.onnecgroup.com/) | 2017 - 2018 | Network Engineer & TPM | Prove Myself
@@ -46,7 +46,7 @@ Please don't hesitate to book time with my <a href="https://calendly.com/meet-lu
 
 | Where | When | What | Why |
 | :--- | :--- | :--- | :--- |
-| [YouTube](https://www.youtube.com/channel/UCRIOI_3REG9zIDM0Fp9Xiyg) | 2008 - 2023 | > 10,000 hours | Life long learner
+| [YouTube](https://www.youtube.com/channel/UCRIOI_3REG9zIDM0Fp9Xiyg) | 2008 - ♾️ | > 10,000 hours | Life long learner
 | [University of London](https://www.qmul.ac.uk/) | 2005 - 2008 | Politics BA - 2:1 | I should have known better 
 | [Bishop Stopford](https://www.bishopstopford.com/) | 1997 - 2005 | x4 A-levels Grade A | The year they let you retake exams!
 
@@ -54,7 +54,7 @@ Please don't hesitate to book time with my <a href="https://calendly.com/meet-lu
 
 ## Carreer Achievements
 
-[__Luke's Career__](https://www.credly.com/users/luke-richardson.dca3c027) story is of accending rigour & complexity (1) [Smartly Summarised](https://en.wikipedia.org/wiki/SMART_criteria)
+[__Luke's Career__](https://www.credly.com/users/luke-richardson.dca3c027) story is of accending rigour & complexity.  [Smartly Summarised](https://en.wikipedia.org/wiki/SMART_criteria)
 
 __Lloret Control Systems__
 
@@ -116,7 +116,7 @@ T : Completed the transition to SSO Okta for capable Systems by 2023.
 
 _Alas, time flies, he is now 38 years old and primarily focused on his career._
 
-Rock Climbing. [North Wales Trad](https://www.ukclimbing.com/logbook/set.php?id=165). 
+Rock Climbing. [North Wales Trad](https://www.ukclimbing.com/logbook/set.php?id=165).   
 Mountaineering. Northern India & Nepal. 
 
 Luke's life tree looks like this:
@@ -129,7 +129,7 @@ Luke's life tree looks like this:
     │   └── Rock Climbing
     ├── Politics
     │   ├── Influential-People
-    │   └── Power-Structures # Non polarizing! Curiosity devoid of emotion. 
+    │   └── Power-Structures 
     └── Technology
         ├── Infrastructure as Code
         └── Network Engineering
@@ -161,7 +161,7 @@ _Brandon Ross, Network Architecture Director, WeWork_
 *Luke Communicates Effectively `>>>>>>>>>>>>>`* **Core Strength**  
 *Luke Builds Relationships `>>>>>>>>>>>>>>>>>>`* **Core Strength**  
 *Luke's Subject Matter Expertise `>>>>>>>>>>>>>>>>>`* **Exceptional Skill**  
-*Rate Luke's business impact `>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>`* **High**   
+*Rate Luke's business impact `>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>`* **High**   
 
 ---
 
