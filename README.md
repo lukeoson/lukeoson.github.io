@@ -16,7 +16,7 @@
 
 ---
 
-<img src="Screenshot 2024-02-12 at 19.50.38.png" width="195" align="right" alt="luke-face" />
+<img src="lukeoson-profile-ring.png" width="195" align="right" alt="luke-face" />
 
 Network Architect<br>
 <a href="mailto:Luke.richardson@lloret.co.uk">Hello@Lukeoson.com</a><br>
