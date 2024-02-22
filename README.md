@@ -79,7 +79,7 @@ Luke's life tree looks like this:
 
 ---
 
-> Thanks for stopping ... Bye. ♾️ ... or, [Get in touch](mailto:hello@lukeoson.com). 🎉
+> Thanks for stopping ... Bye. ♾️ [Get in touch](mailto:hello@lukeoson.com). 🎉
 
 
 
