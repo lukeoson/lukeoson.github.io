@@ -22,7 +22,7 @@ Network Architect<br>
 <a href="mailto:Luke.richardson@lloret.co.uk">Hello@Lukeoson.com</a><br>
 <a href="https://www.linkedin.com/in/luke-richardson/">Linkedin</a><br>
 <a href="tel:+447376209455">+447376209455</a><br>
-<a href="https://github.com/lukeoson/lukeoson.github.io">lukeoson</a><br>
+<a href="https://github.com/lukeoson/">GitHub</a><br>
 <a href="https://www.credly.com/users/lukeoson">Acclaim</a><br>
 Please don't hesitate to book time with my <a href="https://calendly.com/meet-luke-richardson">Calendly</a>.
 
