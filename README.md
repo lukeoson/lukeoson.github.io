@@ -35,10 +35,10 @@ Please don't hesitate to book time with my <a href="https://calendly.com/meet-lu
 | Where| When | What| Why
 | :-- | :-- | :-- | :-- |
 | Available for Hire | 2024 - ♾️ | Network Automation | Bring it all together
-| [Lloret](https://www.lloret.co.uk/) | 2023 - Present | Network Architect | Rediscover my *Routes*
-| [WeWork](https://www.wework.com/) | 2019 - 2023 | Network Architect - Global | Build Complex Systems at Scale
-| [Redstone](https://www.onnecgroup.com/) | 2017 - 2018 | Network Engineer & TPM | Prove Myself
-| [Dimension Data](https://www.dimensiondata.com/en-gb/) | 2012 - 2017 | PM to Network Engineer | Learn the Ropes
+| [Lloret](https://www.lloret.co.uk/) | 2023 - Present | Network Architect | Rediscover my *routes*
+| [WeWork](https://www.wework.com/) | 2019 - 2023 | Network Architect - Global | Build complex systems at scale
+| [Redstone](https://www.onnecgroup.com/) | 2017 - 2018 | Network Engineer & TPM | Prove myself
+| [Dimension Data](https://www.dimensiondata.com/en-gb/) | 2012 - 2017 | PM to Network Engineer | Learn the ropes
 
 ## Education
 
