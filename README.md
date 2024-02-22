@@ -52,64 +52,6 @@ Please don't hesitate to book time with my <a href="https://calendly.com/meet-lu
 
 * [Verify Certifications with Credly](https://www.credly.com/users/luke-richardson.dca3c027) and check [Luke's Blog](https://lukeoson.com/blog) for current learning objectives.
 
-## Carreer Achievements
-
-[__Luke's Career__](https://www.credly.com/users/luke-richardson.dca3c027) story is of accending rigour & complexity.  [Smartly Summarised](https://en.wikipedia.org/wiki/SMART_criteria)
-
-__Lloret Control Systems__
-
-Greenfield Architecture of Cisco, Meraki, Aruba, & Allied Telesis. 
-
-_Lloret is a lovely company, but i'm regretfully unfulfilled with the industry segment. I'm looking for something more inspiring that embraces the paradigm shift toward Infrastructure as Code._  
-    
-S : Network Design mapping Client Specifications to constraints.   
-M : Requirements delivered in strict adherence to defined budget.    
-A : Managed multitudinous stakeholders expectations.   
-R : Built a frame of reference for future project pipelines.      
-T : Delivered in strict adherence to defined timeline.  
-
-__WeWork__
-
-Key contributor to the global Network Architecture.
-
-_Circa 750 Branches spanning >100 Countries with x4 Data Centres in x3 Continents._
-
-S : Transition the Global Branch Network to Juniper Full Stack.   
-M : Radically reduced outages & increased network performance.   
-A : Accommodations for budget & logistics constraints.  
-R : Enabled the Golden Config for global standardisation.  
-T : Completed refresh of First Generation Branches by 2023.
-
-Key contributor to the global Network Automation & Orchestration Strategy.
-
-_Much nuance here, lessons learnt and all that jazz._
-
-S : Incorporate the Branch Network into a code pipeline.   
-M : Reduce the time to deploy a change from days to minutes.      
-A : Built block by block. Source of Truth & Assurance first.   
-R : Radically reduce team toil & increased Member MPS.   
-T : Complete the transition to Infrastructure as Code by 2023.   
-
-Owner & Keeper of Nautobot & Netbox Sources of Truth & IPFabric Network Assurance.
-
-_[Network to Code](https://networktocode.com) & [IPFabric](https://ipfabric.com) are wonderful companies - I joyfully advocate for!_ 
-
-S : Built Nautobot in AWS & IPFabric as distributed On-Premise.     
-M : Accurate Database of >10,000 network devices. No Diff.        
-A : Cross Functional collaboration with DevOps & Security.  
-R : Ensure we have viable Sources of Truth both actual & desired.    
-T : Complete the transition to Infrastructure as Code by 2023.  
-
-Administrative duties of Splunk Cloud Observability & Okta SSO.
-
-_An unexpected void following Layoffs - I was eager to help!_ 
-
-S : Be the gateway for SSO configuration & access in Network Systems.  
-M : Configuration & Access verified by Cyber Compliance Team.      
-A : Training & Documentation for Okta & Splunk.  
-R : Ensured the Network Team had the correct access to the correct systems.    
-T : Completed the transition to SSO Okta for capable Systems by 2023.
-
 ## Hobbies
 
 [__Luke's Hobbies__](https://www.credly.com/users/luke-richardson.dca3c027) occupied much of his twenties as he pursued adventure sports. 
@@ -134,34 +76,6 @@ Luke's life tree looks like this:
         ├── Infrastructure as Code
         └── Network Engineering
 ```
-
-## Testimonials
-
-[__Luke's 2022 WeWork Performance Review__]() 
-
-_If you would like a reference, [Brandon Ross](https://www.linkedin.com/in/brandon-ross-a00154/) would be a useful starting point._
-
-***Describe how Luke has successfully delivered business impact:***
-
-> "Luke is exceptionally good at identifying technology business opportunities and delivering on them. Luke's   management of IPFabric and Netbox have been stellar."   
-    
-_Brandon Ross, Network Architecture Director, WeWork_
-
-***Describe how Luke could work to further elevate their business impact:***
-
-> "Luke should continue his excellent progress at building relationships with other stakeholders around Wework."   
-    
-_Brandon Ross, Network Architecture Director, WeWork_
-
-***Categorize Luke's proficiency across each impact driver:***
-
-*Luke Takes Actions & Delivers `>>>>>>>>>>>>>>`* **Core Strength**  
-*Luke Adapts Seamlessly `>>>>>>>>>>>>>>>>>>`* **Core Strength**  
-*Luke Thinks Critically `>>>>>>>>>>>>>>>>>>>>>>>>>>`* **Exceptional Skill**  
-*Luke Communicates Effectively `>>>>>>>>>>>>>`* **Core Strength**  
-*Luke Builds Relationships `>>>>>>>>>>>>>>>>>>`* **Core Strength**  
-*Luke's Subject Matter Expertise `>>>>>>>>>>>>>>>>>`* **Exceptional Skill**  
-*Rate Luke's business impact `>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>`* **High**   
 
 ---
 
