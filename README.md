@@ -16,7 +16,7 @@
 
 ---
 
-<img src="assets/lukeoson-professional.png" width="170" align="right" alt="luke-face" />
+<img src="assets/lukeoson-professional-blue.png" width="170" align="right" alt="luke-face" />
 
 Network Architect<br>
 <a href="mailto:Luke.richardson@lloret.co.uk">Hello@Lukeoson.com</a><br>
@@ -30,7 +30,7 @@ Please don't hesitate to book time with my <a href="https://calendly.com/meet-lu
 
 ## Employment History 
 
-[__Luke's Employment__](https://www.credly.com/users/luke-richardson.dca3c027) in the Technology Industry includes WeWork & Dimension Data.  
+[__Luke's Employment__](https://www.credly.com/users/lukeoson) in the Technology Industry includes WeWork & Dimension Data.  
 
 | Where| When | What| Why
 | :-- | :-- | :-- | :-- |
@@ -42,7 +42,7 @@ Please don't hesitate to book time with my <a href="https://calendly.com/meet-lu
 
 ## Education
 
-[__Luke's Education__](https://www.credly.com/users/luke-richardson.dca3c027) includes a BA in Politics prior to his various Tech Industry roles.  
+[__Luke's Education__](https://www.credly.com/users/lukeoson) includes a BA in Politics prior to his various Tech Industry roles.  
 
 | Where | When | What | Why |
 | :--- | :--- | :--- | :--- |
@@ -50,11 +50,11 @@ Please don't hesitate to book time with my <a href="https://calendly.com/meet-lu
 | [University of London](https://www.qmul.ac.uk/) | 2005 - 2008 | Politics BA - 2:1 | I should have known better 
 | [Bishop Stopford](https://www.bishopstopford.com/) | 1997 - 2005 | x4 A-levels Grade A | The year they let you retake exams!
 
-* [Verify Certifications with Credly](https://www.credly.com/users/luke-richardson.dca3c027) and check [Luke's Blog](https://lukeoson.com/blog) for current learning objectives.
+* [Verify Certifications with Credly](https://www.credly.com/users/lukeoson) and check [Luke's Blog](https://lukeoson.com/blog) for current learning objectives.
 
 ## Hobbies
 
-[__Luke's Hobbies__](https://www.credly.com/users/luke-richardson.dca3c027) occupied much of his twenties as he pursued adventure sports. 
+[__Luke's Hobbies__](https://www.credly.com/users/lukeoson) occupied much of his twenties as he pursued adventure sports. 
 
 _Alas, time flies, he is now 38 years old and primarily focused on his career._
 
