@@ -17,8 +17,8 @@
 <a href="mailto:Luke.richardson@lloret.co.uk">Hello@Lukeoson.com</a> | <a href="tel:+447376209455">+447376209455</a><br>
 <a href="https://www.linkedin.com/in/luke-richardson/">Linkedin</a> | <a href="https://github.com/lukeoson/">GitHub</a> | <a href="https://x.com/lukeoson">X Twitter</a> | <a href="https://www.credly.com/users/lukeoson">Acclaim</a> | <a href="https://lukeoson.com">Website</a> | <a href="https://lukeoson.com/blog">Blog</a><br>
 <br>
-👣 Be Good & be Gone. <br>
-Please don't hesitate to book time with my <a href="https://fantastical.app/luke-richardson">Fantastical scheduler</a>.
+👣 Be Good & Be Gone. <br>
+👋 Please don't hesitate to book time with my <a href="https://fantastical.app/luke-richardson">Fantastical scheduler</a>.
 
 ---
 
