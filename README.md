@@ -26,7 +26,7 @@ Please don't hesitate to book time with my <a href="https://fantastical.app/luke
 
 ## Employment History 
 
-[__Luke's Employment__](https://resume.lukeoson.com) in the Technology Industry includes WeWork & Dimension Data.  
+[__Luke's Employment__](https://lukeoson.com) in the Technology Industry includes WeWork & Dimension Data.  
 
 | Where| When | What| Why
 | :-- | :-- | :-- | :-- |
@@ -38,7 +38,7 @@ Please don't hesitate to book time with my <a href="https://fantastical.app/luke
 
 ## Education
 
-[__Luke's Education__](https://resume.lukeoson.com) includes a BA in Politics prior to his various Tech Industry roles.  
+[__Luke's Education__](https://lukeoson.com) includes a BA in Politics prior to his various Tech Industry roles.  
 
 | Where | When | What | Why |
 | :--- | :--- | :--- | :--- |
@@ -50,7 +50,7 @@ Please don't hesitate to book time with my <a href="https://fantastical.app/luke
 
 ## Hobbies
 
-[__Luke's Hobbies__](https://resume.lukeoson.com) occupied much of his twenties as he pursued adventure sports. 
+[__Luke's Hobbies__](https://lukeoson.com) occupied much of his twenties as he pursued adventure sports. 
 
 _Alas, time flies, he is now 38 years old and primarily focused on his career._
 
