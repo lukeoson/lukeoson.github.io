@@ -10,7 +10,7 @@
 
 ---
 
-<img src="assets/lukeoson-professional-blue.png" width="170" align="right" alt="luke-face" />
+<img src="assets/lukeoson-spaceman.png" width="170" align="right" alt="luke-face" />
 
 🧑🏼‍💻 Network Automation for Work. 🧬 Evolutionary Psychology for Life. 🧗‍♂️ Climbing & Mountains for Ever.<br>
 <br>
