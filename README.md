@@ -79,7 +79,11 @@ Luke's life tree looks like this:
 
 ---
 
-> Thanks for stopping ... Bye. ♾️ [Get in touch](mailto:hello@lukeoson.com). 🎉
+> Thanks for stopping ... Bye. ♾️ [Get in touch](mailto:hello@lukeoson.com). 🎉 
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/lukeoson/lukeoson.github.io?style=flat-square&labelColor=%23526cfe&color=%23dd2e57)
+
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/lukeoson)
 
 
 
