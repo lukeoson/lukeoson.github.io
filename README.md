@@ -10,6 +10,8 @@
 
 ***
 
+🧑🏼‍💻 Network Automation for Work. 🧬 Evolutionary Psychology for Life. 🧗‍♂️ Climbing & Mountains for Ever. 👣 Be Good & be Gone.
+
 * Passionate about all things Network Automation.
 * Determined to deliver robust and scalable Infrastructure as Code.
 * Adept at working with cross-functional teams to deliver complex projects.
@@ -24,7 +26,7 @@ Network Architect<br>
 <a href="tel:+447376209455">+447376209455</a><br>
 <a href="https://github.com/lukeoson/">GitHub</a><br>
 <a href="https://www.credly.com/users/lukeoson">Acclaim</a><br>
-Please don't hesitate to book time with my <a href="https://fantastical.app/luke-richardson">Fantastical scheduler </a>.
+Please don't hesitate to book time with my <a href="https://fantastical.app/luke-richardson">Fantastical scheduler</a>.
 
 ---
 
