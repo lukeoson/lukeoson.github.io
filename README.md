@@ -15,7 +15,7 @@
 🧑🏼‍💻 Network Automation for Work. 🧬 Evolutionary Psychology for Life. 🧗‍♂️ Climbing & Mountains for Ever.<br>
 <br>
 <a href="mailto:Luke.richardson@lloret.co.uk">Hello@Lukeoson.com</a> | <a href="tel:+447376209455">+447376209455</a><br>
-<a href="https://www.linkedin.com/in/luke-richardson/">Linkedin</a> | <a href="https://github.com/lukeoson/">GitHub</a> | <a href="https://www.credly.com/users/lukeoson">Acclaim</a> | <a href="https://lukeoson.com">Website</a> | <a href="https://lukeoson.com/blog">Blog</a><br>
+<a href="https://www.linkedin.com/in/luke-richardson/">Linkedin</a> | <a href="https://github.com/lukeoson/">GitHub</a> | <a href="https://x.com/lukeoson">X Twitter</a> |<a href="https://www.credly.com/users/lukeoson">Acclaim</a> | <a href="https://lukeoson.com">Website</a> | <a href="https://lukeoson.com/blog">Blog</a><br>
 <br>
 👣 Be Good & be Gone. <br>
 Please don't hesitate to book time with my <a href="https://fantastical.app/luke-richardson">Fantastical scheduler</a>.
@@ -43,8 +43,6 @@ Please don't hesitate to book time with my <a href="https://fantastical.app/luke
 | [YouTube](https://www.youtube.com/channel/UCRIOI_3REG9zIDM0Fp9Xiyg) | 2008 - ♾️ | > 10,000 hours | Life long learner
 | [University of London](https://www.qmul.ac.uk/) | 2005 - 2008 | Politics BA - 2:1 | I should have known better 
 | [Bishop Stopford](https://www.bishopstopford.com/) | 1997 - 2005 | x4 A-levels Grade A | The year they let you retake exams!
-
-* [Verify Certifications with Credly](https://www.credly.com/users/lukeoson) and check [Luke's Blog](https://lukeoson.com/blog) for current learning objectives.
 
 ## Hobbies
 
