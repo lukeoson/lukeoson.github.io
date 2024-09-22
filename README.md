@@ -1,4 +1,4 @@
-[__Luke Richardson__](https://www.linkedin.com/in/luke-richardson/) is a Network Architect in London. 
+[__Luke Richardson__](https://www.linkedin.com/in/luke-richardson/) is a Network Architect who adores the Network Automation ecosystem. You could hire him.  
 
 Luke was most recently employed as a Network Architect in London. He has accrued a multitude of field adjacent skills and proficiencies in Technical Management that make him suitable for a variety of Technology roles. He is considering multiple career paths that leverage his knowledge of the Network Automation ecosystem.   
 
