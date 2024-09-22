@@ -15,11 +15,11 @@
 <img src="assets/lukeoson-professional-blue.png" width="170" align="right" alt="luke-face" />
 
 Network Architect<br>
-<a href="mailto:Luke.richardson@lloret.co.uk">Hello@Lukeoson.com</a><br>
+<a href="mailto:Luke.richardson@lloret.co.uk">Hello@Lukeoson.com</a> | <a href="tel:+447376209455">+447376209455</a><br>
 <a href="https://www.linkedin.com/in/luke-richardson/">Linkedin</a><br>
-<a href="tel:+447376209455">+447376209455</a><br>
 <a href="https://github.com/lukeoson/">GitHub</a><br>
 <a href="https://www.credly.com/users/lukeoson">Acclaim</a><br>
+<a href="https://lukeoson.com">Luke's Website</a><br>
 Please don't hesitate to book time with my <a href="https://fantastical.app/luke-richardson">Fantastical scheduler</a>.
 
 ---
