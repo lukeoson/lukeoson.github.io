@@ -1,10 +1,4 @@
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/lukeos', text: 'Schedule time with Luke', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
-<!-- Calendly badge widget end -->
-
-[__Luke Richardson__](https://www.linkedin.com/in/luke-richardson/) is currently employed as Network Architect in London. 
+[__Luke Richardson__](https://www.linkedin.com/in/luke-richardson/) is a Network Architect in London. 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9930.841589429248!2d-0.1326323!3d51.5185289!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b009c344f4f%3A0xc3a8829a41d799ea!2sLuke%20Richardson!5e0!3m2!1sen!2suk!4v1725916073228!5m2!1sen!2suk" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>  
 
