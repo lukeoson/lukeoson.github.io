@@ -30,7 +30,8 @@ Luke was most recently employed as a Network Architect in London. He has accrued
 
 | Where| When | What| Why
 | :-- | :-- | :-- | :-- |
-| Available for Hire | 2024 - ♾️ | Network Automation | Bring it all together
+| Available for Hire | 2025 - ♾️ | Network Automation | Bring it all together
+| [Camden](https://www.camden.gov.uk/) | 2024 - 2025 | Lead Network Engineer | Public Service
 | [Lloret](https://www.lloret.co.uk/) | 2023 - Present | Network Architect | Rediscover my *routes*
 | [WeWork](https://www.wework.com/) | 2019 - 2023 | Network Architect - Global | Build complex systems at scale
 | [Redstone](https://www.onnecgroup.com/) | 2017 - 2018 | Network Engineer & TPM | Prove myself
