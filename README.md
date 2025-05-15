@@ -76,7 +76,14 @@ Luke's life tree looks like this:
 
 > Thanks for stopping ... Bye. ♾️ [Get in touch](mailto:hello@lukeoson.com). 🎉 
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/lukeoson/lukeoson.github.io?style=flat-square&labelColor=%23526cfe&color=%23dd2e57) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/lukeoson)
+![Commits Total](https://img.shields.io/github/commit-activity/t/lukeoson/lukeoson.github.io?style=flat-square&labelColor=%23526cfe&color=4caf50)
+![Commits Year](https://img.shields.io/github/commit-activity/y/lukeoson/lukeoson.github.io?style=flat-square&labelColor=%23526cfe&color=4caf50)
+![Last Commit](https://img.shields.io/github/last-commit/lukeoson/lukeoson.github.io?style=flat-square&labelColor=%23526cfe&color=03a9f4)
+![Pull Requests Closed](https://img.shields.io/github/issues-pr-closed/lukeoson/lukeoson.github.io?style=flat-square&labelColor=%23526cfe&color=9c27b0)
+![Issues](https://img.shields.io/github/issues/lukeoson/lukeoson.github.io?style=flat-square&labelColor=%23526cfe&color=ff9800)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/lukeoson) 
+
+[![Visit My Site](https://img.shields.io/badge/lukeoson.com-526cfe?style=for-the-badge&logo=github&logoColor=white)](https://lukeoson.com)
 
 
 
